@@ -1,7 +1,7 @@
 👋I am currently pursuing a master's degree in data science at Tsinghua University, with a research focus on 3D AIGC.
 
 
-🤔My research interests include large-scale language modeling, large-scale multimodal modeling, image, video, and 3D generative modeling. And would like to realize AGI for the benefit of humanity through generative AI.
+🤔My research interests include large language models, large multimodal models, image, video, and 3D generative model. And would like to realize AGI for the benefit of humanity through generative AI.
 I am currently working on LLM as Agent, 2D/3D AIGC, 3D Avatar related research. Especially research related to human.
 If you are seeking any form of **academic cooperation**, please feel free to email me at [yisuanwang AT gmail DOT com](mailto:yisuanwang AT gmail DOT com).
 
