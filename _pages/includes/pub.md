@@ -14,7 +14,7 @@
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 **<font color="#fc8803">Junhao Chen</font>**, 
 [Xiang Li](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
-[Haidong Xin](https://resume.kokomi0728.eu.org/), 
+[Haidong Xin](https://xhd0728.github.io/), 
 [Sheng Zhou †](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN), 
 [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=en)
 

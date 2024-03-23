@@ -1,11 +1,33 @@
 # 🎖 Honors and Awards
 
-创新创业竞赛获奖累计奖项**国家级\*9，省级\*39，校级\*11**，合计59项。
-荣誉称号获奖累计奖项**国家级\*6，省级\*1，校级\*18**，合计25项。
-竞赛获奖和个人荣誉合计84项(截止2024年3月22日)。
-荣获<font color="#ff0000">2021年国家奖学金</font>、<font color="#ff0000">2022年固德威奖学金</font>、<font color="#ff0000">2023年小米特等奖学金</font>、2021&2022&2023年华为智能基座奖学金。
+Innovation and Entrepreneurship Competition Award Cumulative Awards **National \*9, Provincial \*39, School-level \*11**, totaling 59. <br>
+Honors awards cumulative awards **national \*6, provincial \*1, school-level \*18**, a total of 25. <br>
+Competition awards and individual honors total 84 (as of March 22, 2024). <br>
 
-## Honors & Scholarships
+## Selected Awards and Honors
+
+| Date Earned | Award Name | Remarks | 
+| 2023-12| 🏅[2023年度<font color="#fc8803">哈尔滨工程大学创新标兵</font>]()| Harbin Engineering University, 10 in all <br>（Top 0.169%，Selected in 2023 among undergraduate and graduate students） |
+| 2023-12| 🏆️[2023年度<font color="#fc8803">教育部-华为“智能基座”未来之星奖学金</font>]() | Harbin Engineering University, 33 out of 16566 <br>（Top 0.199%， Selected from the undergraduate class of 2020-2023) <br> 教育部-华为智能基座联合工作组<br>[华为技术有限公司](https://huawei.com)、[华为高校发展计划](https://edu.hicomputing.huawei.com/) | 
+| 2023-11| 🏅[<font color="#ff0000">黑龙江省三好学生</font>](http://cstc.hrbeu.edu.cn/2023/1108/c3688a318900/page.htm)| Heilongjiang Province, Heilongjiang Province Education Department | 
+| 2023-10| 🏆[2022-2023年度奖学金：<font color="#ff0000">小米特等奖学金（20k）</font>](http://camel.hrbeu.edu.cn/2023/1011/c1233a316856/page.htm) | Harbin Engineering University, 10 out of 32549（Top 0.0307%, Selected in 2023 among undergraduate and graduate students）<br>哈尔滨工程大学<br>[小米科技有限责任公司](https://www.mi.com/)、[小米公益基金会](https://www.mi.com/foundation/index) | 
+| 2023-04| 🏅[<font color="#ff0000">哈尔滨工程大学创新创业先进个人</font>](http://qihang.hrbeu.edu.cn/2023/0418/c960a306931/page.htm)| Harbin Engineering University, 36 out of 25180（Top 0.143%, Selected in 2023 among undergraduate and graduate students）| 
+| 2022-12| 🏆️[2022年度<font color="#fc8803">教育部-华为“智能基座”未来之星奖学金</font>](https://edu.hicomputing.huawei.com/winnerlist) | Harbin Engineering University, 33 out of 16566 <br>（Top 0.199%， Selected from the undergraduate class of 2019-2022) <br> 教育部-华为智能基座联合工作组<br>[华为技术有限公司](https://huawei.com)、[华为高校发展计划](https://edu.hicomputing.huawei.com/) |
+| 2022-09| 🏆[2021-2022年度奖学金：<font color="#ff0000">固德威奖学金（10k）</font>](http://cstc.hrbeu.edu.cn/2022/0930/c3688a298058/page.htm)| 社会奖学金，校级（0.239%）<br>30/12543（2019-2021本）<br>哈尔滨工程大学、[固德威技术股份有限公司](https://www.goodwe.com/about-goodwe/company-profile)| 
+| 2021-12| 🏆[2021年度<font color="#fc8803">教育部-华为智能基座“未来之星”奖学金</font>](https://edu.hicomputing.huawei.com/winnerlist) | Harbin Engineering University, 33 out of 16733 <br>（Top 0.197%， Selected from the undergraduate class of 2018-2021) <br>教育部-华为智能基座联合工作组<br>[华为技术有限公司](https://huawei.com)、[华为高校发展计划](https://edu.hicomputing.huawei.com/) | 
+| 2021-09| 🏆[2020-2021年度奖学金：<font color="#ff0000">国家奖学金（8k）</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | China, Top 1.078% <br> Ministry of Education of the People's Republic of China | 
+| 2023-12-09 | [中国高校计算机大赛-第六届人工智能创意赛（2023-4C-AI）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | 🥈National Second Prize. National Research Association for Computer Education in Colleges and Universities| 
+| 2023-05-20 | [iOS Hackathon创新设计挑战赛](https://mp.weixin.qq.com/s/eFNMVKPZDiNbcwyC42HW3w) | 🥈Second place in China. School of Design and Architecture, Zhejiang University of Technology<br>School of Computer and Computing Science, City College of Zhejiang University |
+| 2023-05-01 | 国际企业管理挑战赛中国赛区| 🥉National Third Prize. Global Management Challenge International Organizing Committee | 
+| 2023-02-11 | 深圳科创学院“科创训练营·冬令营” | 🥈Silver Award, [Shenzhen innoX](https://www.innoxsz.com/)|
+| 2023-02-01 | The Mathematical Contest in Modeling (MCM) | 🥉Honorable Mention ，[COMAP](https://www.comap.com/contests/mcm-icm)| 
+| 2022-09-01 | [全国大学生物联网设计竞赛（华为杯）](http://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=2916&flag=2)| 🥈National Second Prize, National Research Association of Computer Education in Colleges and Universities<br>National University Bio-network Design Competition Organizing Committee | 
+| 2022-09-01 | [中国高校计算机大赛-第七届移动应用创新赛（2022-MAIC）](https://mp.weixin.qq.com/s/SLTUPYVuVnZEPulpZu5ZPw)| 🥉National Third Prize, National Research Association of Computer Education in Colleges and Universities | 
+| 2022-08-01 | 世界大学生水下机器人大赛| 🥉National Award of Excellence, China Society of Shipbuilding Engineering<br>World Underwater Robotics Competition for University Students Organizing Committee | 
+| 2022-07-01 | [第十五届中国大学生计算机设计大赛](https://2022.jsjds.com.cn/Backend/Common/file/download?name=d6qHRHfkPz81TnnGu8UfzFuRCH7DeDrc.pdf)| 🥇National First Prize<br>** (featured works, 5 in total nationwide)** , China University Student Computer Design Competition Organizing Committee | 
+
+
+<!-- ## Honors & Scholarships
 
 | 序号 | 获得日期 | 奖励名称| 备注 | 
 | -- | - | ----- | -- | 
@@ -33,9 +55,9 @@
 | 4| 2021-09| 🏆[2020-2021年度奖学金：<font color="#ff0000">国家奖学金（8k）</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | 国家奖学金，国家级（1.078%）<br> 中华人民共和国教育部 | 
 | 3| 2021-06| 校大学生创业联盟优秀部员| | 
 | 2| 2021-06| 校优秀志愿者| | 
-| 1| 2021-03| [2021年春季学期校优秀学生一等奖学金（0.4k）](http://camel.hrbeu.edu.cn/2021/0401/c1236a266471/page.htm)| 校奖学金，校级（8%）|
+| 1| 2021-03| [2021年春季学期校优秀学生一等奖学金（0.4k）](http://camel.hrbeu.edu.cn/2021/0401/c1236a266471/page.htm)| 校奖学金，校级（8%）| -->
 
-## Competition Awards
+<!-- ## Competition Awards
 ### National level and above
 
 | 序号 | 获得日期 | 奖励名称| 获奖等级| 颁奖单位 |
@@ -107,4 +129,4 @@
 | 5| 2022年11月 | 校第23届“五四杯”创业计划竞赛金奖\*1、银奖*1|
 | 6| 2022年11月 | 校第28届课外学术科技作品竞赛二等奖 |
 | 7| 2023年11月 | 校第24届“五四杯”创业计划竞赛金奖\*1、银奖*1|
-| 8| 2023年11月 | 校第29届课外学术科技作品竞赛二等奖 |
+| 8| 2023年11月 | 校第29届课外学术科技作品竞赛二等奖 | -->

@@ -13,6 +13,6 @@
 
 
 # 💻 Internships
-- *2023-09 - 2024.03*, Institute for AI Industry Research (AIR), Tsinghua University, Beijing.
+- *2023.09 - 2024.03*, Institute for AI Industry Research (AIR), Tsinghua University, Beijing.
 - *2023.04 - 2023.09*, Institute of Automation, Chinese Academy of Sciences, Beijing.
 - *2021.07 - 2023.04*, Modeling and Emulation in E-Government National Engineering Laboratory, Harbin.
