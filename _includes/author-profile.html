@@ -21,20 +21,12 @@
       display: inline-block;
     } */
   
-<<<<<<< HEAD
-    .author__avatar-img {
-=======
     .author__avatar-img, .video-stylea {
->>>>>>> 1532cb1acfc091542e584364cc565b429dfb5726
       width: 100%;
       display: block;
     }
   
     .video-stylea {
-<<<<<<< HEAD
-      width: 100%;
-=======
->>>>>>> 1532cb1acfc091542e584364cc565b429dfb5726
       position: absolute;
       top: 0;
       left: 0;
@@ -43,28 +35,6 @@
   </style>
   
   <div class="author__avatar" onmouseover="showVideo()" onmouseout="hideVideo()">
-<<<<<<< HEAD
-      <img src="images/avatar_ysw.jpeg" class="author__avatar-img" alt="Junhao Chen">
-      <video id="authorVideo" class="video-stylea" loop playsinline poster="images/avatar_ysw.jpeg" preload="auto">
-        <source src="images/avatar_ysw.mp4" type="video/mp4">
-      </video>
-  </div>
-  
-  <script>
-    function showVideo() {
-      var video = document.getElementById('authorVideo');
-      video.style.display = 'block';
-      video.play();
-    }
-  
-    function hideVideo() {
-      var video = document.getElementById('authorVideo');
-      video.pause();
-      video.style.display = 'none';
-    }
-  </script>
-  
-=======
     <img src="images/avatar_ysw.jpeg" class="author__avatar-img" alt="{{ author.name }}">
     <video id="authorVideo" class="video-stylea" loop muted playsinline poster="images/avatar_ysw.jpeg">
       <source src="images/avatar_ysw-compress.mp4" type="video/mp4">
@@ -84,7 +54,6 @@
     video.style.display = 'none';
   }
 </script>
->>>>>>> 1532cb1acfc091542e584364cc565b429dfb5726
 
 
   <div class="author__content">
