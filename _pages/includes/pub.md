@@ -130,7 +130,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
   <!-- <div class='video-container'> -->
     <div class="badge">arxiv 2024</div>
       <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/spinner.svg" width="100%">
-          <source src="images/pub_ultraman.mp4" type="video/mp4" >
+          <source src="images/pub_ultraman_Compressed.mp4" type="video/mp4" >
       </video>
   <!-- </div> -->
 </div>
