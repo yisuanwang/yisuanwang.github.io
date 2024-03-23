@@ -4,9 +4,16 @@
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
-  <div class="author__avatar">
+  <!-- <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+  </div> -->
+  <div class="author__avatar">
+    <video class="author__avatar" controls>
+      <source src="{{ author.avatar_video }}" type="video/mp4">
+      <!-- Your browser does not support the video tag. -->
+    </video>
   </div>
+  
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
