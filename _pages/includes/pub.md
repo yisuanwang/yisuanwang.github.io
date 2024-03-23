@@ -152,7 +152,7 @@ Zhaoxin Fan,
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
-[🗂️Project Page](https://air-discover.github.io/Ultraman/) 
+[\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
 
   - This work converts a single image of the human body into a lifelike 3D model!
@@ -193,7 +193,7 @@ Zhaoxin Fan,
 
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D) 
-[🗂️Project Page](https://air-discover.github.io/Idea-2-3D/) 
+[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) 
 [![arXiv](https://img.shields.io/badge/arXiv-2311.13562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.13562)
 
   - This work enables automated 3D model design and generation for people!
