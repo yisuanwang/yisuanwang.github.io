@@ -7,13 +7,20 @@
   <!-- <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div> -->
+
   <div class="author__avatar">
-    <video class="author__avatar" autoplay muted loop>
-      <source src="{{ author.avatar }}" type="video/mp4">
+    <video class="author__avatar-video" autoplay muted loop>
+      <source src="{{ author.avatar_video }}" type="video/mp4">
       Your browser does not support the video tag.
+      </video>
+  </div>  
+
+  <!-- <div class="author__avatar">
+    <video class="author__avatar" autoplay muted loop alt="{{ author.name }}">
+      <source src="{{ author.avatar }}" type="video/mp4">
     </video>
   </div>
-  
+   -->
   
 
   <div class="author__content">
