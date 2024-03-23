@@ -1,4 +1,6 @@
 
+This personal website is mainly built on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), thanks to [Yi Ren](https://rayeren.github.io/)'s open source!
+
 <h1 align="center">
 AcadHomepage
 </h1>
