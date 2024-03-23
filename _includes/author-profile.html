@@ -14,47 +14,48 @@
       </video>
   </div>   -->
 
-
   <style>
-    .author__avatar {
+    /* .author__avatar {
       position: relative;
-      width: 100%; /* Set this to the width of your avatar */
+      width: 100%; 
       display: inline-block;
-    }
+    } */
   
-    .author__avatar-img, .video-style {
+    .author__avatar-img {
       width: 100%;
       display: block;
     }
   
-    .video-style {
+    .video-stylea {
+      width: 100%;
       position: absolute;
       top: 0;
       left: 0;
       display: none;
     }
   </style>
-
+  
   <div class="author__avatar" onmouseover="showVideo()" onmouseout="hideVideo()">
-    <img src="images/avatar_ysw.jpeg" class="author__avatar-img" alt="{{ author.name }}">
-    <video id="authorVideo" class="video-style" loop playsinline poster="images/avatar_ysw.jpeg">
-      <source src="images/avatar_ysw.mp4" type="video/mp4">
-    </video>
-</div>
-
-<script>
-  function showVideo() {
-    var video = document.getElementById('authorVideo');
-    video.style.display = 'block';
-    video.play();
-  }
-
-  function hideVideo() {
-    var video = document.getElementById('authorVideo');
-    video.pause();
-    video.style.display = 'none';
-  }
-</script>
+      <img src="images/avatar_ysw.jpeg" class="author__avatar-img" alt="Junhao Chen">
+      <video id="authorVideo" class="video-stylea" loop playsinline poster="images/avatar_ysw.jpeg" preload="auto">
+        <source src="images/avatar_ysw.mp4" type="video/mp4">
+      </video>
+  </div>
+  
+  <script>
+    function showVideo() {
+      var video = document.getElementById('authorVideo');
+      video.style.display = 'block';
+      video.play();
+    }
+  
+    function hideVideo() {
+      var video = document.getElementById('authorVideo');
+      video.pause();
+      video.style.display = 'none';
+    }
+  </script>
+  
 
 
   <div class="author__content">
