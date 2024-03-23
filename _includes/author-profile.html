@@ -8,20 +8,54 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div> -->
 
-  <div class="author__avatar">
-    <video class="author__avatar-video" autoplay muted loop>
-      <source src="{{ author.avatar_video }}" type="video/mp4">
-      Your browser does not support the video tag.
-      </video>
-  </div>  
-
   <!-- <div class="author__avatar">
-    <video class="author__avatar" autoplay muted loop alt="{{ author.name }}">
-      <source src="{{ author.avatar }}" type="video/mp4">
-    </video>
-  </div>
-   -->
+      <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/avatar_ysw.jpeg" width="100%">
+        <source src="{{ author.avatar }}" type="video/mp4" >
+      </video>
+  </div>   -->
+
+
+  <style>
+    .author__avatar {
+      position: relative;
+      width: 100%; /* Set this to the width of your avatar */
+      display: inline-block;
+    }
   
+    .author__avatar-img, .video-style {
+      width: 100%;
+      display: block;
+    }
+  
+    .video-style {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: none;
+    }
+  </style>
+
+  <div class="author__avatar" onmouseover="showVideo()" onmouseout="hideVideo()">
+    <img src="images/avatar_ysw.jpeg" class="author__avatar-img" alt="{{ author.name }}">
+    <video id="authorVideo" class="video-style" loop playsinline poster="images/avatar_ysw.jpeg">
+      <source src="images/avatar_ysw.mp4" type="video/mp4">
+    </video>
+</div>
+
+<script>
+  function showVideo() {
+    var video = document.getElementById('authorVideo');
+    video.style.display = 'block';
+    video.play();
+  }
+
+  function hideVideo() {
+    var video = document.getElementById('authorVideo');
+    video.pause();
+    video.style.display = 'none';
+  }
+</script>
+
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
