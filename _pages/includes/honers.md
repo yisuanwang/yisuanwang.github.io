@@ -20,7 +20,7 @@ Competition awards and individual honors total 84 (as of March 22, 2024). <br>
 | 2023-05 | [iOS Hackathon创新设计挑战赛](https://mp.weixin.qq.com/s/eFNMVKPZDiNbcwyC42HW3w) | **🥈Second place in China.** <br>Awarded by [Apple Inc.](http://www.appcontest.net/)|
 | 2023-05 | 国际企业管理挑战赛中国赛区| **🥉National Third Prize.** <br>Awarded by Global Management Challenge <br>International Organizing Committee | 
 | 2023-02 | 深圳科创学院“科创训练营·冬令营” | **🥈Silver Award.**<br>Awarded by [Shenzhen innoX](https://www.innoxsz.com/)|
-| 2023-02 | The Mathematical Contest in Modeling (MCM) | **🥉Honorable Mention.** | 
+| 2023-02 | The Mathematical Contest in Modeling (MCM) | **🥉Honorable Mention.**<br>Awarded by [COMAP](https://www.comap.com/contests/mcm-icm)| 
 | 2022-09 | [全国大学生物联网设计竞赛（华为杯）](http://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=2916&flag=2)| **🥈National Second Prize.**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
 | 2022-09 | [中国高校计算机大赛-第七届移动应用创新赛（2022-MAIC）](https://mp.weixin.qq.com/s/SLTUPYVuVnZEPulpZu5ZPw)| **🥉National Third Prize.**<br>Awarded by [Apple Inc.](http://www.appcontest.net/) | 
 | 2022-08 | 世界大学生水下机器人大赛| **🥉National Award of Excellence.** | 
