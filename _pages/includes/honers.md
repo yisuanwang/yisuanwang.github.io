@@ -9,22 +9,22 @@ Competition awards and individual honors total 84 (as of March 22, 2024). <br>
 | Date Earned | Award Name | Remarks | 
 | 2023-12| 🏅[2023年度<font color="#fc8803">哈尔滨工程大学创新标兵</font>]()|  10 in 32549 <br> **Top 0.0307%**|
 | 2023-12| 🏆️[2023年度<font color="#fc8803">教育部-华为“智能基座”未来之星奖学金</font>]() | 33 out of 16566 <br> **Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com)| 
+| 2023-12 | [中国高校计算机大赛-第六届人工智能创意赛（2023-4C-AI）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | **🥈National Second Prize.**<br>Awarded by [Baidu Inc.](http://aicontest.baidu.com/)| 
 | 2023-11| 🏅[<font color="#ff0000">黑龙江省三好学生</font>](http://cstc.hrbeu.edu.cn/2023/1108/c3688a318900/page.htm)| Awarded by Heilongjiang Province and<br> Heilongjiang Province Education Department | 
 | 2023-10| 🏆[2022-2023年度奖学金：<font color="#ff0000">小米特等奖学金（20k）</font>](http://camel.hrbeu.edu.cn/2023/1011/c1233a316856/page.htm) |10 out of 32549<br> **Top 0.0307%**<br>Awarded by [Xiaomi Inc.](https://www.mi.com/)| 
-| 2023-04| 🏅[<font color="#ff0000">哈尔滨工程大学创新创业先进个人</font>](http://qihang.hrbeu.edu.cn/2023/0418/c960a306931/page.htm)|  36 out of 25180<br> **Top 0.143%** | 
-| 2022-12| 🏆️[2022年度<font color="#fc8803">教育部-华为“智能基座”未来之星奖学金</font>](https://edu.hicomputing.huawei.com/winnerlist) | 33 out of 16566 <br>**Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com) |
-| 2022-09| 🏆[2021-2022年度奖学金：<font color="#ff0000">固德威奖学金（10k）</font>](http://cstc.hrbeu.edu.cn/2022/0930/c3688a298058/page.htm)| 30 out of 12543 <br>**Top 0.239%**<br>Awarded by [Goodwe Inc.](https://www.goodwe.com/about-goodwe/company-profile) | 
-| 2021-12| 🏆[2021年度<font color="#fc8803">教育部-华为智能基座“未来之星”奖学金</font>](https://edu.hicomputing.huawei.com/winnerlist) |33 out of 16733 <br>**Top 0.197%**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
-| 2021-09| 🏆[2020-2021年度奖学金：<font color="#ff0000">国家奖学金（8k）</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | **China, Top 1.078%** <br>Awarded by Ministry of Education of<br> the People's Republic of China | 
-| 2023-12 | [中国高校计算机大赛-第六届人工智能创意赛（2023-4C-AI）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | **🥈National Second Prize.**<br>Awarded by [Baidu Inc.](http://aicontest.baidu.com/)| 
 | 2023-05 | [iOS Hackathon创新设计挑战赛](https://mp.weixin.qq.com/s/eFNMVKPZDiNbcwyC42HW3w) | **🥈Second place in China.** <br>Awarded by [Apple Inc.](http://www.appcontest.net/)|
 | 2023-05 | 国际企业管理挑战赛中国赛区| **🥉National Third Prize.** <br>Awarded by Global Management Challenge <br>International Organizing Committee | 
+| 2023-04| 🏅[<font color="#ff0000">哈尔滨工程大学创新创业先进个人</font>](http://qihang.hrbeu.edu.cn/2023/0418/c960a306931/page.htm)|  36 out of 25180<br> **Top 0.143%** | 
 | 2023-02 | 深圳科创学院“科创训练营·冬令营” | **🥈Silver Award.**<br>Awarded by [Shenzhen innoX](https://www.innoxsz.com/)|
 | 2023-02 | The Mathematical Contest in Modeling (MCM) | **🥉Honorable Mention.**<br>Awarded by [COMAP](https://www.comap.com/contests/mcm-icm)| 
+| 2022-12| 🏆️[2022年度<font color="#fc8803">教育部-华为“智能基座”未来之星奖学金</font>](https://edu.hicomputing.huawei.com/winnerlist) | 33 out of 16566 <br>**Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com) |
+| 2022-10| 🏆[2021-2022年度奖学金：<font color="#ff0000">固德威奖学金（10k）</font>](http://cstc.hrbeu.edu.cn/2022/0930/c3688a298058/page.htm)| 30 out of 12543 <br>**Top 0.239%**<br>Awarded by [Goodwe Inc.](https://www.goodwe.com/about-goodwe/company-profile) | 
 | 2022-09 | [全国大学生物联网设计竞赛（华为杯）](http://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=2916&flag=2)| **🥈National Second Prize.**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
 | 2022-09 | [中国高校计算机大赛-第七届移动应用创新赛（2022-MAIC）](https://mp.weixin.qq.com/s/SLTUPYVuVnZEPulpZu5ZPw)| **🥉National Third Prize.**<br>Awarded by [Apple Inc.](http://www.appcontest.net/) | 
 | 2022-08 | 世界大学生水下机器人大赛| **🥉National Award of Excellence.** | 
 | 2022-07 | [第十五届中国大学生计算机设计大赛](https://2022.jsjds.com.cn/Backend/Common/file/download?name=d6qHRHfkPz81TnnGu8UfzFuRCH7DeDrc.pdf)| **🥇National First Prize**<br>**Featured works, 2 out of 60,000+ works**| 
+| 2021-12| 🏆[2021年度<font color="#fc8803">教育部-华为智能基座“未来之星”奖学金</font>](https://edu.hicomputing.huawei.com/winnerlist) |33 out of 16733 <br>**Top 0.197%**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
+| 2021-09| 🏆[2020-2021年度奖学金：<font color="#ff0000">国家奖学金（8k）</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | **China, Top 1.078%** <br>Awarded by Ministry of Education of<br> the People's Republic of China | 
 
 
 <!-- ## Honors & Scholarships
