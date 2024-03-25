@@ -15,6 +15,7 @@
 **<font color="#fc8803">Junhao Chen</font>**, 
 [Xiang Li](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
 [Haidong Xin](https://xhd0728.github.io/), 
+Chao Li,
 [Sheng Zhou †](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN), 
 [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=en)
 
@@ -23,7 +24,8 @@
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cn4W7IlooDk5X9JXBvsENRtExKJShb98#scrollTo=F0LyDZnKoTuT)
 [![arXiv](https://img.shields.io/badge/arXiv-2311.13562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.13562) -->
 
-[**Project**](https://github.com/Daria8976/MMAD) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
+
   - This work has unlocked a whole new experience of watching movies for the visually impaired.
 </div>
 </div>
