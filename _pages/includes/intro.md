@@ -8,7 +8,7 @@
 
 ⬅️ What is AIGC? Move your mouse over the avatar on the left to see it! 🤯
 
-🎓 I graduated from **Harbin Engineering University with a B.S. degree in Software Engineering**, supervised by Prof. **[Chao Li](https://mohub.net/help/MoHub/UserServiceCases/Cases1.html#%E6%95%99%E5%B8%88%E4%BB%8B%E7%BB%8D)**, proficient in **Android and iOS app development**.
-I had an internship at the **Institute of Automation, Chinese Academy of Sciences**, supervised by Prof. **[Yubo Chen](https://scholar.google.com/citations?hl=en&user=9z7GPxIAAAAJ)**, conducted research related to **Large Language Models**.
-In addition, I had a good time with Prof. **[Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** at **Institute for AI Industry Research (AIR), Tsinghua University**, engaged in research related to **AIGC**.
+🎓 I graduated from **Harbin Engineering University with a B.S. degree in Software Engineering**, supervised by Prof. **[Chao Li](https://mohub.net/help/MoHub/UserServiceCases/Cases1.html#%E6%95%99%E5%B8%88%E4%BB%8B%E7%BB%8D)**.
+I had an internship at the **Institute of Automation, Chinese Academy of Sciences**, supervised by Prof. **[Yubo Chen](https://scholar.google.com/citations?hl=en&user=9z7GPxIAAAAJ)**.
+In addition, I had a good time with Prof. **[Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** at **Institute for AI Industry Research (AIR), Tsinghua University**.
 
