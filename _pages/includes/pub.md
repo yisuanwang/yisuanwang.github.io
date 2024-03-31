@@ -4,7 +4,7 @@
 
 
 <!--COLING 2024 MMAD：Multi-modal Movie Audio Description -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/pub_mmad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/pub_mmad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h1 style="font-weight: bold">
