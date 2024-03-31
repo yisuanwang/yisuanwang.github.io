@@ -7,24 +7,24 @@ Competition awards and individual honors total 84 (as of March 22, 2024). <br>
 ## Selected Awards and Honors
 
 | Date Earned | Award Name | Remarks | 
-| 2023-12| 🏅[2023<font color="#fc8803">Pacesetter for Innovation</font>]()|  10 in 32549 <br> **Top 0.0307%** <br>warded by [Harbin Engineering University](http://www.hrbeu.edu.cn/)|
-| 2023-12| 🏆️[2023<font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>]() | 33 out of 16566 <br> **Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com)| 
+| 2023-12| 🏅[2023 <font color="#fc8803">Pacesetter for Innovation</font>]()|  10 in 32549 <br> **Top 0.0307%** <br>warded by [Harbin Engineering University](http://www.hrbeu.edu.cn/)|
+| 2023-12| 🏆️[2023 <font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>]() | 33 out of 16566 <br> **Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com)| 
 | 2023-12 | [2023 China Collegiate Computing Contest - Artificial Intelligence Innovation Contest（2023-4C-AI）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | **🥈National Second Prize.**<br>Awarded by [Baidu Inc.](http://aicontest.baidu.com/)| 
 | 2023-11| 🏅[<font color="#ff0000">Merit Student of Heilongjiang Province</font>](http://cstc.hrbeu.edu.cn/2023/1108/c3688a318900/page.htm)| Awarded by [EDUCATION DEPARTMENT OF HEILONGJIANG PROVINCE](http://jyt.hlj.gov.cn/) | 
-| 2023-10| 🏆[2023<font color="#ff0000">Xiaomi Special Scholarship</font>](http://camel.hrbeu.edu.cn/2023/1011/c1233a316856/page.htm) |10 out of 32549<br> **Top 0.0307%**<br>Awarded by [Xiaomi Inc.](https://www.mi.com/)| 
+| 2023-10| 🏆[2023 <font color="#ff0000">Xiaomi Special Scholarship</font>](http://camel.hrbeu.edu.cn/2023/1011/c1233a316856/page.htm) |10 out of 32549<br> **Top 0.0307%**<br>Awarded by [Xiaomi Inc.](https://www.mi.com/)| 
 | 2023-05 | [iOS Hackathon 36-Hour Innovation Design Challenge](https://mp.weixin.qq.com/s/eFNMVKPZDiNbcwyC42HW3w) | **🥈Second place in China.** <br>Awarded by [Apple Inc.](http://www.appcontest.net/)|
 | 2023-05 | Global Management Challenge (GMC)| **🥉National Third Prize.** <br>Awarded by [CGM International Organizing Committee](https://www.gmc-china.net/news/1349-a4bc3384ff422a266d51.html) | 
 | 2023-04| 🏅[<font color="#ff0000">Advanced Individuals in Innovation and Entrepreneurship</font>](http://qihang.hrbeu.edu.cn/2023/0418/c960a306931/page.htm)|  36 out of 25180<br> **Top 0.143%** <br>warded by [Harbin Engineering University](http://www.hrbeu.edu.cn/)| 
 | 2023-02 | Shenzhen innoX "Science and Innovation Training Camp - Winter Camp" | **🥈Silver Award.**<br>Awarded by [Shenzhen innoX](https://www.innoxsz.com/)|
 | 2023-02 | The Mathematical Contest in Modeling (MCM) | **🥉Honorable Mention.**<br>Awarded by [COMAP](https://www.comap.com/contests/mcm-icm)| 
-| 2022-12| 🏆️[2022<font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>](https://edu.hicomputing.huawei.com/winnerlist) | 33 out of 16566 <br>**Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com) |
-| 2022-10| 🏆[2022<font color="#ff0000">Goodwe Scholarship</font>](http://cstc.hrbeu.edu.cn/2022/0930/c3688a298058/page.htm)| 30 out of 12543 <br>**Top 0.239%**<br>Awarded by [Goodwe Inc.](https://www.goodwe.com/about-goodwe/company-profile) | 
+| 2022-12| 🏆️[2022 <font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>](https://edu.hicomputing.huawei.com/winnerlist) | 33 out of 16566 <br>**Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com) |
+| 2022-10| 🏆[2022 <font color="#ff0000">Goodwe Scholarship</font>](http://cstc.hrbeu.edu.cn/2022/0930/c3688a298058/page.htm)| 30 out of 12543 <br>**Top 0.239%**<br>Awarded by [Goodwe Inc.](https://www.goodwe.com/about-goodwe/company-profile) | 
 | 2022-09 | [2022 HUA WEI CUP National Undergraduate IOT Design Contest](http://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=2916&flag=2)| **🥈National Second Prize.**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
 | 2022-09 | [2022 China Collegiate Computing Contest - Mobile Application Innovation Contest（2022-MAIC）](https://mp.weixin.qq.com/s/SLTUPYVuVnZEPulpZu5ZPw)| **🥉National Third Prize.**<br>Awarded by [Apple Inc.](http://www.appcontest.net/) | 
 | 2022-08 | WORLD UNIVERSITY UNDERWATER ROBOT COMPETITION | **🥉National Award of Excellence.** | 
 | 2022-07 | [The 15th China University Computer Design Competition](https://2022.jsjds.com.cn/Backend/Common/file/download?name=d6qHRHfkPz81TnnGu8UfzFuRCH7DeDrc.pdf)| **🥇National First Prize**<br>**Featured works, 2 out of 60,000+ works**| 
-| 2021-12| 🏆[2021<font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>](https://edu.hicomputing.huawei.com/winnerlist) |33 out of 16733 <br>**Top 0.197%**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
-| 2021-09| 🏆[2021<font color="#ff0000">National Scholarship</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | **China, Top 1.078%** <br>Awarded by [Ministry of Education of the People's Republic of China](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | 
+| 2021-12| 🏆[2021 <font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>](https://edu.hicomputing.huawei.com/winnerlist) |33 out of 16733 <br>**Top 0.197%**<br>Awarded by [Huawei Inc.](https://huawei.com) | 
+| 2021-09| 🏆[2021 <font color="#ff0000">National Scholarship</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | **China, Top 1.078%** <br>Awarded by [Ministry of Education of the People's Republic of China](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | 
 
 
 <!-- ## Honors & Scholarships
