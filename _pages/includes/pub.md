@@ -64,7 +64,7 @@ Zhaoxin Fan,
 <h1 style="font-weight: bold">
   <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
     <span class="gradient-text">Idea-2-3D</span>:
-      : Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
+      Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
   </a>
 </h1>
 
