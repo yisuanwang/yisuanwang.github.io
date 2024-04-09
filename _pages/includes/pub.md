@@ -54,12 +54,28 @@ Zhaoxin Fan,
 
 <div class='paper-box-text' markdown="1">
 
-<h1 style="font-weight: bold">
+<!-- <h1 style="font-weight: bold">
   <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
     <b style="color: #5a3e91">Idea</b>-<b style="color: #17bfe9">2</b>-<b style="color: #d73d5f">3D</b>:
       Iterative Self-Refinement with Large Multimodal Model for Automated 3D Model Design and Generation
   </a>
+</h1> -->
+
+<h1 style="font-weight: bold">
+  <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
+    <span class="gradient-text">Idea-2-3D</span>:
+      : Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
+  </a>
 </h1>
+
+<!-- <h1 style="font-weight: bold;">
+  <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
+  <span class="gradient-text">Idea-2-3D</span>
+  <span>
+    : Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
+  </span>
+  </a>
+</h1> -->
 
 **<font color="#fc8803">Junhao Chen *</font>**, 
 [Xiang Li *](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
