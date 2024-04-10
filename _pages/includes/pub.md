@@ -28,7 +28,7 @@ Mingjin Chen *,
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 [Huan-ang Gao](https://scholar.google.com/citations?hl=en&user=WvbKfLgAAAAJ), 
 [Xiaoxue Chen](https://scholar.google.com/citations?hl=en&user=_tz64W0AAAAJ), 
-Zhaoxin Fan, 
+[Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
@@ -81,13 +81,13 @@ Zhaoxin Fan,
 [Xiang Li *](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 Chao Li, 
-Zhaoxin Fan, 
+[Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D) 
 [\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) 
-[![arXiv](https://img.shields.io/badge/arXiv-2311.13562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.13562)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
 
   - This work enables automated 3D model design and generation for people!
 
