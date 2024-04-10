@@ -3,42 +3,6 @@
 
 ## 🧑‍🎨 3D AIGC
 
-<!-- Ultraman -->
-<div class='paper-box'>
-
-<div class='paper-box-image'>
-  <!-- <div class='video-container'> -->
-    <div class="badge">arxiv 2024</div>
-      <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/spinner.svg" width="100%">
-          <source src="images/pub_ultraman_Compressed.mp4" type="video/mp4" >
-      </video>
-  <!-- </div> -->
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-<h1 style="font-weight: bold">
-  <a href="https://air-discover.github.io/Ultraman/" target="_blank">
-    <b style="color: #5a3e91">Ultra</b><b style="color: #d73d5f">man</b>: Single Image 3D Human Reconstruction with Ultra Speed and Detail
-  </a>
-</h1>
-  
-Mingjin Chen *, 
-**<font color="#fc8803">Junhao Chen *</font>**, 
-[Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
-[Huan-ang Gao](https://scholar.google.com/citations?hl=en&user=WvbKfLgAAAAJ), 
-[Xiaoxue Chen](https://scholar.google.com/citations?hl=en&user=_tz64W0AAAAJ), 
-[Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
-[Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
-
-[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
-[\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
-[![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
-
-  - This work converts a single image of the human body into a lifelike 3D model!
-</div>
-</div>
-
 
 <!-- Idea23D -->
 <div class='paper-box'>
@@ -85,14 +49,52 @@ Chao Li,
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 
-[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D) 
-[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) 
-[![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
+[🗂Project Page](https://air-discover.github.io/Idea-2-3D/) | [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing) | [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
+
 
   - This work enables automated 3D model design and generation for people!
 
 </div>
 </div>
+
+
+<!-- Ultraman -->
+<div class='paper-box'>
+
+<div class='paper-box-image'>
+  <!-- <div class='video-container'> -->
+    <div class="badge">arxiv 2024</div>
+      <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/spinner.svg" width="100%">
+          <source src="images/pub_ultraman_Compressed.mp4" type="video/mp4" >
+      </video>
+  <!-- </div> -->
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+<h1 style="font-weight: bold">
+  <a href="https://air-discover.github.io/Ultraman/" target="_blank">
+    <b style="color: #5a3e91">Ultra</b><b style="color: #d73d5f">man</b>: Single Image 3D Human Reconstruction with Ultra Speed and Detail
+  </a>
+</h1>
+  
+Mingjin Chen *, 
+**<font color="#fc8803">Junhao Chen *</font>**, 
+[Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
+[Huan-ang Gao](https://scholar.google.com/citations?hl=en&user=WvbKfLgAAAAJ), 
+[Xiaoxue Chen](https://scholar.google.com/citations?hl=en&user=_tz64W0AAAAJ), 
+[Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
+[Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
+
+[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
+[\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
+[![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
+
+  - This work converts a single image of the human body into a lifelike 3D model!
+</div>
+</div>
+
+
 
 
 
