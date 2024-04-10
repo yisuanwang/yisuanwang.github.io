@@ -40,14 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.gradient-text {
+.gradient-text-1 {
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     -webkit-background-clip: text;
     color: transparent;
     background-clip: text;
   }
   
-.paper-box {
+    .paper-box {
     display: flex;
     justify-content: left;
     align-items: center;

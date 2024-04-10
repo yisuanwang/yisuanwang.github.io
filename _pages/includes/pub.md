@@ -27,19 +27,11 @@
 
 <h1 style="font-weight: bold">
   <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
-    <span class="gradient-text">Idea-2-3D</span>:
+    <span class="gradient-text-1">Idea-2-3D</span>:
       Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
   </a>
 </h1>
 
-<!-- <h1 style="font-weight: bold;">
-  <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
-  <span class="gradient-text">Idea-2-3D</span>
-  <span>
-    : Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
-  </span>
-  </a>
-</h1> -->
 
 **<font color="#fc8803">Junhao Chen *</font>**, 
 [Xiang Li *](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
