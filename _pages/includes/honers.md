@@ -7,6 +7,7 @@ Competition awards and individual honors total 84 (as of March 22, 2024). <br>
 ## Selected Awards and Honors
 
 | Date Earned | Award Name | Remarks | 
+| 2024-04| 🏅[2024 <font color="#fc8803">Pacesetter for Advanced Individuals in Innovation and Entrepreneurship</font>]()|  10 in 32549 <br> **Top 0.0307%** <br>Awarded  by [Harbin Engineering University](http://www.hrbeu.edu.cn/)|
 | 2023-12| 🏅[2023 <font color="#fc8803">Pacesetter for Innovation</font>]()|  10 in 32549 <br> **Top 0.0307%** <br>Awarded  by [Harbin Engineering University](http://www.hrbeu.edu.cn/)|
 | 2023-12| 🏆️[2023 <font color="#fc8803">Ministry of Education-Huawei Smart Base "Future Star" Scholarship</font>]() | 33 out of 16566 <br> **Top 0.199%**<br>Awarded by [Huawei Inc.](https://huawei.com)| 
 | 2023-12 | [2023 China Collegiate Computing Contest - Artificial Intelligence Innovation Contest（2023-4C-AI）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | **🥈National Second Prize.**<br>Awarded by [Baidu Inc.](http://aicontest.baidu.com/)| 
