@@ -94,9 +94,14 @@ Mingjin Chen *,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/pub_mmad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 <h1 style="font-weight: bold">
-  MMAD：Multi-modal Movie Audio Description
+  <a href="https://daria8976.github.io/mmad-page/" target="_blank">
+    <span class="gradient-text-MMAD">MMAD</span>:
+      Multi-modal Movie Audio Description
+  </a>
 </h1>
+
 
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 **<font color="#fc8803">Junhao Chen</font>**, 
