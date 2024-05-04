@@ -41,7 +41,10 @@ Chao Li,
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 
-[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) | [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing) | [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
+[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
 
   - This work enables automated 3D model design and generation for people!
 
@@ -77,8 +80,8 @@ Mingjin Chen *,
 [Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
-[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
 [\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
 
   - This work converts a single image of the human body into a lifelike 3D model!
@@ -116,7 +119,9 @@ Chao Li,
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cn4W7IlooDk5X9JXBvsENRtExKJShb98#scrollTo=F0LyDZnKoTuT)
 [![arXiv](https://img.shields.io/badge/arXiv-2311.13562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.13562) -->
 
+[\[🗂️Project Page\]](https://daria8976.github.io/mmad-page/) 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
+
 
   - This work has unlocked a whole new experience of watching movies for the visually impaired.
 </div>
