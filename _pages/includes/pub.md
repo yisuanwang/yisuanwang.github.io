@@ -121,7 +121,7 @@ Chao Li,
 
 [\[🗂️Project Page\]](https://daria8976.github.io/mmad-page/) 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
-
+[\[📜Paper\]](https://aclanthology.org/2024.lrec-main.998/)
 
   - This work has unlocked a whole new experience of watching movies for the visually impaired.
 </div>
@@ -218,7 +218,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 
-## 📃Patents
+<!-- ## 📃Patents
 
 | Id | Date     | Name                                           | Number     | Type         |
 | ---| -------- | ---------------------------------------------- | --- | -------------- | 
@@ -227,7 +227,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 | 4  | 2023-06-21 |  一种基于神经网络的本地化经验威胁分析方法及装置 | CN116962012A | China Invention Publication     |
 | 3  | 2023-06-21 |  一种基于面向流切分技术的网络日志解析方法及装置 | CN116668154A | China Invention Publication     |
 | 2  | 2022-10-31 |  一种数控机床的废料回装置                       | CN218312317U | China Utility Model | 
-| 1  | 2021-12-27 |  一种舰船用高分辨率超远距全景摄像头             | CN216565344U | China Utility Model | 
+| 1  | 2021-12-27 |  一种舰船用高分辨率超远距全景摄像头             | CN216565344U | China Utility Model |  -->
 
 
 <!-- invention publication：发明专利申请
@@ -235,7 +235,7 @@ invention grant：发明专利授权
 utility model：实用新型专利授权
 design：外观设计专利授权
  -->
-## 📄Software copyrights
+<!-- ## 📄Software copyrights
 
 | Id | Date       | Name                             | Number        |
 | ---- | ------------ | ------------------------------------- | --------------- |
@@ -245,4 +245,4 @@ design：外观设计专利授权
 | 4  | 2023-05-18 | 灵魂画手——数字照片资产修复与管理软件iOS App     | 2023SR0551686 |
 | 3  | 2023-05-18 | Soul Painter基于深度学习图像处理技术的Android App | 2023SR0551505 |
 | 2  | 2022-05-26 | 计算机视觉目标定位测距系统                        | 2022SR0649919 |
-| 1  | 2022-05-26 | 基于深度学习的物体识别处理系统                    | 2022SR0649918 |
+| 1  | 2022-05-26 | 基于深度学习的物体识别处理系统                    | 2022SR0649918 | -->
