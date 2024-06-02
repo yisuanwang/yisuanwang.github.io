@@ -41,8 +41,10 @@ Chao Li,
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 
-[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) | [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing) | [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
-
+[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
 
   - This work enables automated 3D model design and generation for people!
 
@@ -78,8 +80,8 @@ Mingjin Chen *,
 [Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
-[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
 [\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
 
   - This work converts a single image of the human body into a lifelike 3D model!
@@ -95,9 +97,14 @@ Mingjin Chen *,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/pub_mmad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 <h1 style="font-weight: bold">
-  MMAD：Multi-modal Movie Audio Description
+  <a href="https://daria8976.github.io/mmad-page/" target="_blank">
+    <span class="gradient-text-MMAD">MMAD</span>:
+      Multi-modal Movie Audio Description
+  </a>
 </h1>
+
 
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 **<font color="#fc8803">Junhao Chen</font>**, 
@@ -112,7 +119,9 @@ Chao Li,
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cn4W7IlooDk5X9JXBvsENRtExKJShb98#scrollTo=F0LyDZnKoTuT)
 [![arXiv](https://img.shields.io/badge/arXiv-2311.13562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.13562) -->
 
+[\[🗂️Project Page\]](https://daria8976.github.io/mmad-page/) 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
+[\[📜Paper\]](https://aclanthology.org/2024.lrec-main.998/)
 
   - This work has unlocked a whole new experience of watching movies for the visually impaired.
 </div>
@@ -209,7 +218,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 
-## 📃Patents
+<!-- ## 📃Patents
 
 | Id | Date     | Name                                           | Number     | Type         |
 | ---| -------- | ---------------------------------------------- | --- | -------------- | 
@@ -218,7 +227,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 | 4  | 2023-06-21 |  一种基于神经网络的本地化经验威胁分析方法及装置 | CN116962012A | China Invention Publication     |
 | 3  | 2023-06-21 |  一种基于面向流切分技术的网络日志解析方法及装置 | CN116668154A | China Invention Publication     |
 | 2  | 2022-10-31 |  一种数控机床的废料回装置                       | CN218312317U | China Utility Model | 
-| 1  | 2021-12-27 |  一种舰船用高分辨率超远距全景摄像头             | CN216565344U | China Utility Model | 
+| 1  | 2021-12-27 |  一种舰船用高分辨率超远距全景摄像头             | CN216565344U | China Utility Model |  -->
 
 
 <!-- invention publication：发明专利申请
@@ -226,7 +235,7 @@ invention grant：发明专利授权
 utility model：实用新型专利授权
 design：外观设计专利授权
  -->
-## 📄Software copyrights
+<!-- ## 📄Software copyrights
 
 | Id | Date       | Name                             | Number        |
 | ---- | ------------ | ------------------------------------- | --------------- |
@@ -236,4 +245,4 @@ design：外观设计专利授权
 | 4  | 2023-05-18 | 灵魂画手——数字照片资产修复与管理软件iOS App     | 2023SR0551686 |
 | 3  | 2023-05-18 | Soul Painter基于深度学习图像处理技术的Android App | 2023SR0551505 |
 | 2  | 2022-05-26 | 计算机视觉目标定位测距系统                        | 2022SR0649919 |
-| 1  | 2022-05-26 | 基于深度学习的物体识别处理系统                    | 2022SR0649918 |
+| 1  | 2022-05-26 | 基于深度学习的物体识别处理系统                    | 2022SR0649918 | -->
