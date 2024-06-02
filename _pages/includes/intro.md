@@ -1,8 +1,9 @@
 👋 I am currently pursuing a MPhil degree in data science at Tsinghua University, with a research focus on 3D AIGC.
 
 🤔 My research interests include LLMs, LMMs, generative models. I very much enjoy LLM-related research because I think it is the best way to achieve AGI at this point in time. However, the main research work I will be doing in the next few years will be focused on 3D vision. 
-My google scholar is here <a href='https://scholar.google.com/citations?user=uVMnzPMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My google scholar is here <a href='https://scholar.google.com/citations?user=uVMnzPMAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyisuanwangn%2Fyisuanwang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 
 🤖 I am currently working on research related to LLM as Agent, 2D/3D AIGC, and Avatar, especially in areas that have a strong connection to humans. And would like to realize AGI for the benefit of humanity through generative AI.
 
