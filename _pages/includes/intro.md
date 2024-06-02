@@ -9,6 +9,6 @@ My google scholar is here <a href='https://scholar.google.com/citations?user=uVM
 
 🎓 I graduated from **Harbin Engineering University with a B.S. degree in Software Engineering**, supervised by Prof. **[Chao Li](https://mohub.net/help/MoHub/UserServiceCases/Cases1.html#%E6%95%99%E5%B8%88%E4%BB%8B%E7%BB%8D)**.
 I had an internship at the **Institute of Automation, Chinese Academy of Sciences**, supervised by Prof. **[Yubo Chen](https://scholar.google.com/citations?hl=en&user=9z7GPxIAAAAJ)**.
-In addition, I had a good time with Prof. **[Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** at **Institute for AI Industry Research (AIR), Tsinghua University**.
+In addition, I had a good time with Prof. **[Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** and Prof. **[Jason Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ)** at **Institute for AI Industry Research (AIR), Tsinghua University**.
 
 😥 I'll be [emo](https://yisuanwang.github.io/emo) on a regular basis, which looks to be caused by not being able to write a paper.
