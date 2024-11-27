@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEU Awards</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #content {
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>HEU Awards</h1>
+    <div id="content">Loading...</div>
+
+    <script>
+        async function fetchMarkdownFile(url) {
+            try {
+                console.log('Fetching markdown file:', url);
+                const response = await fetch(url);
+                console.log('Response:', response);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const markdown = await response.text();
+                console.log('Markdown content:', markdown);
+                const htmlContent = marked.parse(markdown);
+                document.getElementById('content').innerHTML = htmlContent;
+            } catch (error) {
+                console.error('Error fetching the markdown file:', error);
+                document.getElementById('content').innerText = 'Error loading content.';
+            }
+        }
+
+        // Call the function with the appropriate URL
+        fetchMarkdownFile('heuAwards.md');
+    </script>
+</body>
+</html>

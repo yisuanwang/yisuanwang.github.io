@@ -3,41 +3,75 @@
 
 ## 🧑‍🎨 3D AIGC
 
-
-<!-- Idea23D -->
+<!-- [DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters](https://driveavatar.github.io/) -->
 <div class='paper-box'>
-
 <div class='paper-box-image'>
-  <!-- <div class='video-container'> -->
     <div class="badge">arxiv 2024</div>
-      <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/spinner.svg" width="100%">
-          <source src="images/pub_idea23d.mp4" type="video/mp4" >
-      </video>
-  <!-- </div> -->
+      <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
+           onclick="window.open('https://driveavatar.github.io/', '_blank');">
+      <source src="images/pub_DRiVE.mp4" type="video/mp4">
+    </video>
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-<!-- <h1 style="font-weight: bold">
-  <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
-    <b style="color: #5a3e91">Idea</b>-<b style="color: #17bfe9">2</b>-<b style="color: #d73d5f">3D</b>:
-      Iterative Self-Refinement with Large Multimodal Model for Automated 3D Model Design and Generation
-  </a>
-</h1> -->
 
 <h1 style="font-weight: bold">
+  <a href="https://driveavatar.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
+    <span class="gradient-text-drive">DRiVE</span>:
+    <span style="text-decoration: underline; text-decoration-skip-ink: none;">D</span>iffusion-based 
+    <span style="text-decoration: underline; text-decoration-skip-ink: none;">Ri</span>gging Empowers Generation of 
+    <span style="text-decoration: underline; text-decoration-skip-ink: none;">V</span>ersatile and 
+    <span style="text-decoration: underline; text-decoration-skip-ink: none;">E</span>xpressive Characters
+  </a>
+</h1>
+
+
+
+[Mingze Sun *](https://scholar.google.com/citations?hl=en&user=TTW2mVoAAAAJ), 
+[**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+[Junting Dong †](https://scholar.google.com/citations?user=dEzL5pAAAAAJ&hl=en&oi=ao), 
+Yurun Chen, Xinyu Jiang, Shiwei Mao,
+[Puhua Jiang](https://scholar.google.com/citations?user=E-k3WcgAAAAJ&hl=en), 
+[Jingbo Wang](https://scholar.google.com/citations?user=GStTsxAAAAAJ&hl=en), 
+[Bo Dai](https://scholar.google.com/citations?hl=en&user=KNWTvgEAAAAJ), 
+[Ruqi Huang †](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en)
+
+[\[🗂️Project Page\]](https://driveavatar.github.io/) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/DRiVEAvatar/DRiVEAvatar.github.io?label=stars&logo=github&color=brightgreen)](https://github.com/DRiVEAvatar/DRiVEAvatar.github.io)
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2411.17423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.17423)
+
+  - This work generates skeleton and skinning with clothes and hair for 3d gaussian avatar!
+
+</div>
+</div>
+
+
+
+<!-- Idea23D -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div class="badge">arxiv 2024</div>
+    <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
+           onclick="window.open('https://air-discover.github.io/Idea-2-3D/', '_blank');">
+      <source src="images/pub_idea23d.mp4" type="video/mp4">
+    </video>
+</div>
+<div class='paper-box-text' markdown="1">
+<h1 style="font-weight: bold">
   <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
-    <span class="gradient-text-1">Idea-2-3D</span>:
+    <span class="gradient-text-idea23d">Idea-2-3D</span>:
       Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
   </a>
 </h1>
 
 
-**<font color="#fc8803">Junhao Chen *</font>**, 
+[**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
 [Xiang Li *](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 Chao Li, 
-[Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
+[Zhaoxin Fan †](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 
@@ -54,14 +88,12 @@ Chao Li,
 
 <!-- Ultraman -->
 <div class='paper-box'>
-
 <div class='paper-box-image'>
-  <!-- <div class='video-container'> -->
     <div class="badge">arxiv 2024</div>
-      <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/spinner.svg" width="100%">
-          <source src="images/pub_ultraman_Compressed.mp4" type="video/mp4" >
-      </video>
-  <!-- </div> -->
+    <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
+           onclick="window.open('https://air-discover.github.io/Ultraman/', '_blank');">
+      <source src="images/pub_ultraman_Compressed.mp4" type="video/mp4">
+    </video>
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -71,9 +103,9 @@ Chao Li,
     <b style="color: #5a3e91">Ultra</b><b style="color: #d73d5f">man</b>: Single Image 3D Human Reconstruction with Ultra Speed and Detail
   </a>
 </h1>
-  
-Mingjin Chen *, 
-**<font color="#fc8803">Junhao Chen *</font>**, 
+
+[Mingjin Chen *](https://scholar.google.com/citations?user=uLfubbgAAAAJ&hl=en&oi=sra), 
+[**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 [Huan-ang Gao](https://scholar.google.com/citations?hl=en&user=WvbKfLgAAAAJ), 
 [Xiaoxue Chen](https://scholar.google.com/citations?hl=en&user=_tz64W0AAAAJ), 
@@ -81,7 +113,7 @@ Mingjin Chen *,
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 [\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
-[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Ultraman) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/tomorrow1238/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/tomorrow1238/Ultraman) 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
 
   - This work converts a single image of the human body into a lifelike 3D model!
@@ -92,12 +124,61 @@ Mingjin Chen *,
 
 
 
-## 👀 MM & LMM
-<!--COLING 2024 MMAD：Multi-modal Movie Audio Description -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/pub_mmad.png' alt="sym" width="100%"></div></div>
+## 👀 Multi-modal
+
+<!--IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web-->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arxiv 2024</div>
+      <img src="images/pub_iwbench.svg" alt="sym" width="100%" 
+           style="cursor: pointer;" 
+           onclick="window.open('https://iw-bench-page.vercel.app/', '_blank');">
+    </div>
+  </div>
+
 <div class='paper-box-text' markdown="1">
 
+<h1 style="font-weight: bold">
+  <a href="https://iw-bench-page.vercel.app/" target="_blank">
+    IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web
+  </a>
+</h1>
 
+
+[Hongcheng Guo](https://scholar.google.com/citations?hl=en&user=eynbo4cAAAAJ), 
+[Wei Zhang](https://scholar.google.com/citations?user=NaWMztYAAAAJ&hl=en&oi=sra), 
+[**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+Yaonan Gu,
+[Jian Yang](https://scholar.google.com/citations?user=i9opWEgAAAAJ&hl=en), Junjia Du, Binyuan Hui, 
+[Tianyu Liu](https://scholar.google.com/citations?user=6hHbBwwAAAAJ&hl=en), 
+[Jianxin Ma](https://scholar.google.com/citations?hl=en&user=WdDFFlIAAAAJ), 
+[Chang Zhou](https://scholar.google.com/citations?hl=en&user=QeSoG3sAAAAJ)
+
+[\[🗂️Project Page\]](https://iw-bench-page.vercel.app/) 
+[![GitHub Repo Stars](https://img.shields.io/github/stars/HC-Guo/IWBench?label=stars&logo=github&color=brightgreen)](https://github.com/HC-Guo/IWBench) 
+[![arXiv](https://img.shields.io/badge/arXiv-2409.18980-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2409.18980)
+
+  - This work is a benchmark for evaluating MLLM image-2-html code generation capabilities.
+</div>
+</div>
+
+
+
+<!--COLING 2024 MMAD：Multi-modal Movie Audio Description -->
+<div class="paper-box">
+  <!-- Paper Box Image Section -->
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">COLING 2024</div>
+      <!-- Clickable Image with Link -->
+      <img src="images/pub_mmad.png" alt="sym" width="100%" 
+           style="cursor: pointer;" 
+           onclick="window.open('https://daria8976.github.io/mmad-page/', '_blank');">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 <h1 style="font-weight: bold">
   <a href="https://daria8976.github.io/mmad-page/" target="_blank">
     <span class="gradient-text-MMAD">MMAD</span>:
@@ -107,17 +188,13 @@ Mingjin Chen *,
 
 
 [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
-**<font color="#fc8803">Junhao Chen</font>**, 
+[**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
 [Xiang Li](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
 [Haidong Xin](https://xhd0728.github.io/), 
 Chao Li,
 [Sheng Zhou †](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN), 
 [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=en)
 
-<!-- [![GitHub](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) -->
-
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cn4W7IlooDk5X9JXBvsENRtExKJShb98#scrollTo=F0LyDZnKoTuT)
-[![arXiv](https://img.shields.io/badge/arXiv-2311.13562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.13562) -->
 
 [\[🗂️Project Page\]](https://daria8976.github.io/mmad-page/) 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
@@ -128,6 +205,8 @@ Chao Li,
 </div>
 
 
+
+
 <!-- Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2023</div><img src='images/pub_soulstyler.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,7 +215,8 @@ Chao Li,
   Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object
 </h1>
 
-**<font color="#fc8803">Junhao Chen</font>**, Peng Rong, Jingbo Sun, Chao Li †, Xiang Li, [Hongwu Lv](http://homepage.hrbeu.edu.cn/web/lvhongwu?locale=zh_CN) 
+[**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+ Peng Rong, Jingbo Sun, Chao Li †, Xiang Li, [Hongwu Lv](http://homepage.hrbeu.edu.cn/web/lvhongwu?locale=zh_CN) 
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Soulstyler?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Soulstyler) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cn4W7IlooDk5X9JXBvsENRtExKJShb98#scrollTo=F0LyDZnKoTuT) 
@@ -149,7 +229,6 @@ Chao Li,
 
 
 ## 🎙 NLP & LLM
-
 <!-- ICANN 2023 Towards Energy-Efficient Sentiment Classification with Spiking Neural Networks -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/pub_spike.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -158,20 +237,18 @@ Chao Li,
   Towards Energy-Efficient Sentiment Classification with Spiking Neural Networks
 </h1>
 
-**<font color="#fc8803">Junhao Chen</font>**, [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), Jingbo Sun, Chao Li †
+[**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+[Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), Jingbo Sun, Chao Li †
 
 [\[📜Paper\]](https://doi.org/10.1007/978-3-031-44204-9_43)
 
   - This work applies a pulsed neural network to a natural language sentiment categorization task, reaching the leading edge in terms of energy consumption.
 
-<!-- [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420). -->
-
 </div>
 </div>
+
+
+
 
 <!-- EMNLP 2023 ZhuJiu: A Multi-dimensional, Multi-faceted Chinese Benchmark for Large Language Models -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/pub_zhujiu.jpg' alt="sym" width="100%"></div></div>
@@ -181,7 +258,9 @@ Chao Li,
   ZhuJiu: A Multi-dimensional, Multi-faceted Chinese Benchmark for Large Language Models
 </h1>
 
-[Baoli Zhang \*](https://scholar.google.com/citations?hl=en&user=ZUW0UbgAAAAJ), Haining Xie \*, Pengfan Du, **<font color="#fc8803">Junhao Chen</font>**, [Pengfei Cao](https://cpf-nlpr.github.io/), [Yubo Chen †](https://people.ucas.ac.cn/~yubochen), Shengping Liu, [Kang Liu](https://people.ucas.ac.cn/~liukang), [Jun Zhao](https://people.ucas.ac.cn/~zhaojun)
+[Baoli Zhang \*](https://scholar.google.com/citations?hl=en&user=ZUW0UbgAAAAJ), Haining Xie \*, Pengfan Du,
+[**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+[Pengfei Cao](https://cpf-nlpr.github.io/), [Yubo Chen †](https://people.ucas.ac.cn/~yubochen), Shengping Liu, [Kang Liu](https://people.ucas.ac.cn/~liukang), [Jun Zhao](https://people.ucas.ac.cn/~zhaojun)
 
 [\[🗂️Project Page\]](http://www.zhujiu-benchmark.com/introduction)
 [\[🏆Leaderboard \]](http://www.zhujiu-benchmark.com/leaderboard)

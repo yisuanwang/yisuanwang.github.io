@@ -47,12 +47,20 @@
     background-clip: text;
 }
 
-.gradient-text-1 {
+.gradient-text-idea23d {
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     -webkit-background-clip: text;
     color: transparent;
     background-clip: text;
 }
+
+.gradient-text-drive {
+    background: linear-gradient(90deg, rgba(94, 92, 230, 1) 0%, rgba(88, 86, 214, 1) 25%, rgba(191, 90, 242, 1) 50%, rgba(255, 45, 85, 1) 75%, rgba(255, 59, 48, 1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    background-clip: text;
+}
+
   
     .paper-box {
     display: flex;

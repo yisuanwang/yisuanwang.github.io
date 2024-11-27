@@ -1,8 +1,8 @@
-本科期间获得的奖励
+# Some Awards
 
-Innovation and Entrepreneurship Competition Award Cumulative Awards **National \*9, Provincial \*39, School-level \*11**, totaling 59. <br>
-Honors awards cumulative awards **national \*6, provincial \*2, school-level \*20**, a total of 28. <br>
-Competition awards and individual honors total 87 (as of 04, 30, 2024). <br>
+Competition Award: **National \*10, Provincial \*45, School-level \*11**, totaling 66. <br>
+Honors Awards: **national \*6, provincial \*2, school-level \*20**, a total of 28. <br>
+Competition awards and honors total 94 (as of 11, 18, 2024). <br>
 
 ## Honors & Scholarships
 
@@ -43,6 +43,7 @@ Competition awards and individual honors total 87 (as of 04, 30, 2024). <br>
 
 | 序号 | 获得日期 | 奖励名称| 获奖等级| 颁奖单位 |
 | -- | - | -- | -- | --- | 
+| 10| 2024-11-17 | [中国高校计算机大赛-第九届移动应用创新赛（2023-4C-MAIC）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | 🥉国家级三等奖 | 全国高等学校计算机教育研究会| 
 | 9| 2023-12-09 | [中国高校计算机大赛-第六届人工智能创意赛（2023-4C-AI）](https://mp.weixin.qq.com/s/cMY3YsJgaUn4Ew4HvcQXeg) | 🥈国家级二等奖 | 全国高等学校计算机教育研究会| 
 | 8| 2023-05-20 | [iOS Hackathon创新设计挑战赛](https://mp.weixin.qq.com/s/eFNMVKPZDiNbcwyC42HW3w) | 🥈全国第二名| 浙江工业大学设计与建筑学院<br>浙大城市学院计算机与计算科学学院 |
 | 7| 2023-05-01 | 国际企业管理挑战赛中国赛区| 🥉国家级三等奖| Global Management Challenge<br> International Organizing Committee | 
@@ -97,7 +98,12 @@ Competition awards and individual honors total 87 (as of 04, 30, 2024). <br>
 | 37 | 2023-08-30 | 第九届中国国际“互联网+”大学生创新创业大赛-产业命题赛道：基于飞桨和百度文心大模型打造具有落地场景的应用创新产品 | 黑龙江省铜奖 | 黑龙江省教育厅|
 | 38 | 2023-08-30 | 第九届中国国际“互联网+”大学生创新创业大赛-产业命题赛道：鲲鹏BoostKit大数据Spark图算法优化| 黑龙江省铜奖 | 黑龙江省教育厅| 
 | 39 | 2023-10-23 | [2023年-中国高校计算机大赛-第6届人工智能创意赛（2023-4C-AI）](https://mp.weixin.qq.com/s?__biz=MjM5NjIwOTQyMA==&mid=2651844865&idx=1&sn=abfc9c2820e5e03f250f99e7260eb53e&chksm=bd17e7628a606e74766aa0c5001c85a52ed1db733d02e5638576c16309fbaa9092c0b2494b1e&mpshare=1&scene=23&srcid=1023ulqS8GdN1sZHIhnjIjcE&sharer_shareinfo=b59f9caae7c0873019fff0a1f6fb118e&sharer_shareinfo_first=b59f9caae7c0873019fff0a1f6fb118e#rd) | 东北赛区二等奖（top2，入围决赛） | 全国高等学校计算机教育研究会| 
-
+| 40 | 2024-08-30 | 第十届中国国际“互联网+”大学生创新创业大赛-本科生创意组：明路者：多模态深度学习导盲眼 | 黑龙江省银奖 | 黑龙江省教育厅|
+| 41 | 2024-08-30 | 第十届中国国际“互联网+”大学生创新创业大赛-产业命题赛道：基于昇思MindSpore的开放领域创新解决方案 | 黑龙江省铜奖 | 黑龙江省教育厅|
+| 42 | 2024-08-30 | 第十届中国国际“互联网+”大学生创新创业大赛-产业命题赛道：基于昇思MindSpore的开放领域创新解决方案 | 黑龙江省银奖 | 黑龙江省教育厅|
+| 43 | 2024-08-30 | 第十届中国国际“互联网+”大学生创新创业大赛-产业命题赛道：鲲鹏BoostKit大数据Spark图算法优化 | 黑龙江省铜奖 | 黑龙江省教育厅|
+| 44 | 2024-08-30 | 第十届中国国际“互联网+”大学生创新创业大赛-产业命题赛道：基于昇腾CANN的原生应用创新实践 | 黑龙江省银奖 | 黑龙江省教育厅|
+| 45 | 2024-10-08 | 2024年-中国高校计算机大赛——第九届移动应用创新赛（2024-MAIC） | [华南赛区一等奖（入围决赛）](https://mp.weixin.qq.com/s/Y2W7-1x466a8viYweuSMSQ) | 全国高等学校计算机教育研究会|
 
 ### School level and above
 
@@ -112,7 +118,9 @@ Competition awards and individual honors total 87 (as of 04, 30, 2024). <br>
 | 7| 2023年11月 | 校第24届“五四杯”创业计划竞赛金奖\*1、银奖*1|
 | 8| 2023年11月 | 校第29届课外学术科技作品竞赛二等奖 | 
 
-
+# Some reports
+- *2024.10*, [哈尔滨工程大学校友会: “小米奖助学金”助力工程学子成长](https://mp.weixin.qq.com/s/-R-YuKwpT8jzFtJuVce3sA)
+- *2024.05*, [哈尔滨工程大学团委: 青春榜样 | “学生创新创业标兵（团队）”风采展示！](https://mp.weixin.qq.com/s/ZMvcCdxBzW3mFJKzMzv2qg)
 - *2024.05*, [哈尔滨工程大学：优秀！哈工程青年“全明星”阵容来了！](https://mp.weixin.qq.com/s/Hr0zjtlr2kl65Lxu66YkNQ)
 - *2024.01*, [百度高校合作: 终于找到“老照片”的正确打开方式了！](https://mp.weixin.qq.com/s/o0D5L88lfOGriqPTBYcjNQ)
 - *2023.09*, [哈尔滨工程大学校友会:【工程学子第25期】投身科研，热爱实践](https://mp.weixin.qq.com/s?__biz=MzA5NjQxMDMyMQ==&mid=2651496496&idx=5&sn=bd0fc570e20376cee226ec05378a7511&chksm=8b4e8f8ebc390698a0843ad5e59c84dcab140ecf96d1cbfa678b99f4b6caaf345019df8053cb&scene=27)
