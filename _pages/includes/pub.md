@@ -52,15 +52,15 @@ Yurun Chen, Xinyu Jiang, Shiwei Mao,
 <!-- Idea23D -->
 <div class='paper-box'>
 <div class='paper-box-image'>
-    <div class="badge">arxiv 2024</div>
+    <div class="badge">COLING 2025</div>
     <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
-           onclick="window.open('https://air-discover.github.io/Idea-2-3D/', '_blank');">
+           onclick="window.open('https://idea23d.github.io/', '_blank');">
       <source src="images/pub_idea23d.mp4" type="video/mp4">
     </video>
 </div>
 <div class='paper-box-text' markdown="1">
 <h1 style="font-weight: bold">
-  <a href="https://air-discover.github.io/Idea-2-3D/" target="_blank">
+  <a href="https://idea23d.github.io/" target="_blank">
     <span class="gradient-text-idea23d">Idea-2-3D</span>:
       Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
   </a>
@@ -75,7 +75,7 @@ Chao Li,
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
 
-[\[🗂️Project Page\]](https://air-discover.github.io/Idea-2-3D/) 
+[\[🗂️Project Page\]](https://idea23d.github.io/) 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing)
 [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
