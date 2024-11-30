@@ -6,6 +6,6 @@ I had an internship at the **[Institute of Automation, Chinese Academy of Scienc
 I had a good time with Prof. **[Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** and Prof. **[Jason Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ)** at **[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/)**.
 I will continue my MPhil's degree in Data Science at **[Institute of Data and Information (iDI)](https://www.sigs.tsinghua.edu.cn/en/Institute_of_Data_and_Information/)**, **[ Shenzhen International Graduate School (SIGS), Tsinghua University](https://www.sigs.tsinghua.edu.cn/en/)** under the supervision of Prof. **[Ruqi Huang](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en&oi=ao)**.
 
-🙋‍♂️ If you are interested in working with me, feel free to drop me an email. [yisuanwang AT gmail DOT com](mailto:yisuanwang AT gmail DOT com). 如果您是寻求科研机会的**哈尔滨工程大学**的低年级学生，我将在校内提供固定工位。如果您是**其他单位**的低年级学生，我将提供 AIR@THU 或者 SIGS@THU 的科研岗位。
+🙋‍♂️ If you are interested in working with me, feel free to drop me an email. [yisuanwang AT gmail DOT com](mailto:yisuanwang AT gmail DOT com). 
 
 😥 I'll be [emo](https://yisuanwang.github.io/emo) on a regular basis, which is a normal phenomenon and nothing to worry about.
