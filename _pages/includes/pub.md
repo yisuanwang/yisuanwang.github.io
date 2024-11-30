@@ -37,8 +37,8 @@ Yurun Chen, Xinyu Jiang, Shiwei Mao,
 [Bo Dai](https://scholar.google.com/citations?hl=en&user=KNWTvgEAAAAJ), 
 [Ruqi Huang †](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en)
 
-[\[🗂️Project Page\]](https://driveavatar.github.io/) 
-[![GitHub Repo Stars](https://img.shields.io/github/stars/DRiVEAvatar/DRiVEAvatar.github.io?label=stars&logo=github&color=brightgreen)](https://github.com/DRiVEAvatar/DRiVEAvatar.github.io)
+<a href='https://driveavatar.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+[![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/DRiVE?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/DRiVE)
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing) -->
 [![arXiv](https://img.shields.io/badge/arXiv-2411.17423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.17423)
 
@@ -61,8 +61,7 @@ Yurun Chen, Xinyu Jiang, Shiwei Mao,
 <div class='paper-box-text' markdown="1">
 <h1 style="font-weight: bold">
   <a href="https://idea23d.github.io/" target="_blank">
-    <span class="gradient-text-idea23d">Idea-2-3D</span>:
-      Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
+    <span class="gradient-text-idea23d">Idea23D</span>: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
   </a>
 </h1>
 
@@ -74,8 +73,7 @@ Chao Li,
 [Zhaoxin Fan †](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
-
-[\[🗂️Project Page\]](https://idea23d.github.io/) 
+<a href='https://idea23d.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Idea23D?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Idea23D)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_lJRvxIlBUPjC_Lou57SWLEnc5vLgQ6?usp=sharing)
 [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.04363)
@@ -112,7 +110,7 @@ Chao Li,
 [Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
 [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
-[\[🗂️Project Page\]](https://air-discover.github.io/Ultraman/) 
+<a href='https://air-discover.github.io/Ultraman/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 [![GitHub Repo Stars](https://img.shields.io/github/stars/tomorrow1238/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/tomorrow1238/Ultraman) 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
 
@@ -156,7 +154,7 @@ Yaonan Gu,
 [Jianxin Ma](https://scholar.google.com/citations?hl=en&user=WdDFFlIAAAAJ), 
 [Chang Zhou](https://scholar.google.com/citations?hl=en&user=QeSoG3sAAAAJ)
 
-[\[🗂️Project Page\]](https://iw-bench-page.vercel.app/) 
+<a href='https://iw-bench-page.vercel.app/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 [![GitHub Repo Stars](https://img.shields.io/github/stars/HC-Guo/IWBench?label=stars&logo=github&color=brightgreen)](https://github.com/HC-Guo/IWBench) 
 [![arXiv](https://img.shields.io/badge/arXiv-2409.18980-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2409.18980)
 
@@ -195,8 +193,7 @@ Chao Li,
 [Sheng Zhou †](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN), 
 [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=en)
 
-
-[\[🗂️Project Page\]](https://daria8976.github.io/mmad-page/) 
+<a href='https://daria8976.github.io/mmad-page/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
 [\[📜Paper\]](https://aclanthology.org/2024.lrec-main.998/)
 
@@ -262,7 +259,7 @@ Chao Li,
 [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
 [Pengfei Cao](https://cpf-nlpr.github.io/), [Yubo Chen †](https://people.ucas.ac.cn/~yubochen), Shengping Liu, [Kang Liu](https://people.ucas.ac.cn/~liukang), [Jun Zhao](https://people.ucas.ac.cn/~zhaojun)
 
-[\[🗂️Project Page\]](http://www.zhujiu-benchmark.com/introduction)
+<a href='http://www.zhujiu-benchmark.com/introduction'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 [\[🏆Leaderboard \]](http://www.zhujiu-benchmark.com/leaderboard)
 [![arXiv](https://img.shields.io/badge/arXiv-2308.14353-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2308.14353)
 [\[📜Paper\]](https://aclanthology.org/2023.emnlp-demo.44/)
