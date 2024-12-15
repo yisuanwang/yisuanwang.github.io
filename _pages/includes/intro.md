@@ -9,3 +9,5 @@ I will continue my MPhil's degree in Data Science at **[Institute of Data and In
 🙋‍♂️ If you are interested in working with me, feel free to drop me an email. [yisuanwang AT gmail DOT com](mailto:yisuanwang AT gmail DOT com). 
 
 😥 I'll be [emo](https://yisuanwang.github.io/emo) on a regular basis, which is a normal phenomenon and nothing to worry about.
+
+⬅️ Never place your mouse over the left avatar! Never!
