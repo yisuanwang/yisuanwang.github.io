@@ -6,7 +6,7 @@
 <!-- [DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters](https://driveavatar.github.io/) -->
 <div class='paper-box'>
 <div class='paper-box-image'>
-    <div class="badge">arxiv 2024</div>
+    <div class="badge">CVPR 2025</div>
       <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
            onclick="window.open('https://driveavatar.github.io/', '_blank');">
       <source src="images/pub_DRiVE.mp4" type="video/mp4">
@@ -25,7 +25,6 @@
     <span style="text-decoration: underline; text-decoration-skip-ink: none;">E</span>xpressive Characters
   </a>
 </h1>
-
 
 
 [Mingze Sun *](https://scholar.google.com/citations?hl=en&user=TTW2mVoAAAAJ), 
@@ -47,9 +46,6 @@ Yurun Chen, Xinyu Jiang, Shiwei Mao,
   <a href="https://github.com/yisuanwang/DRiVE"><img src="https://img.shields.io/github/stars/yisuanwang/DRiVE?label=stars&logo=github&color=brightgreen" alt="GitHub Repo Stars"></a> 
   <a href="https://arxiv.org/abs/2411.17423"><img src="https://img.shields.io/badge/arXiv-2411.17423-b31b1b.svg?style=flat-square" alt="arXiv"></a>
 </div>
-
-
-
 
   - This work generates skeleton and skinning with clothes and hair for 3d gaussian avatar!
 
@@ -148,7 +144,7 @@ Chao Li,
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arxiv 2024</div>
+      <div class="badge">ACL 2025</div>
       <img src="images/pub_iwbench.svg" alt="sym" width="100%" 
            style="cursor: pointer;" 
            onclick="window.open('https://iw-bench-page.vercel.app/', '_blank');">
