@@ -1,7 +1,53 @@
-
 # 📝 Publications 
 
-## 🧑‍🎨 3D AIGC
+## 🧑‍🎨 AIGC & Controllable World Model
+
+<!-- DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div class="badge">Arxiv 2025</div>
+      <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
+           onclick="window.open('https://dancetog.github.io/', '_blank');">
+      <source src="images/DanceTog-case01.mp4" type="video/mp4">
+    </video>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+<h1 style="font-weight: bold">
+  <a href="https://dancetog.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="images/dancetoglogo.png" alt="DanceTogether logo" style="height: 1em; vertical-align: -0.15em; margin-right: 0.3em;">
+    <span class="gradient-text-dance">DanceTogether!</span> Identity-Preserving Multi-Person Interactive Video Generation
+  </a>
+</h1>
+
+[**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?hl=en&user=uVMnzPMAAAAJ), 
+[Mingjin Chen](https://scholar.google.com/), 
+[Jianjin Xu](https://scholar.google.com/citations?hl=en&user=mTV0usAAAAAJ), 
+[Xiang Li](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=en&oi=sra), 
+[Junting Dong †](https://scholar.google.com/citations?user=dEzL5pAAAAAJ&hl=en),
+[Mingze Sun](https://scholar.google.com/citations?user=TTW2mVoAAAAJ&hl=en), 
+[Puhua Jiang](https://scholar.google.com/citations?user=E-k3WcgAAAAJ&hl=en), 
+[Hongxiang Li](https://scholar.google.com/citations?user=U4AwycUAAAAJ&hl=en&oi=ao), 
+[Yuhang Yang](https://scholar.google.com/citations?hl=en&user=x3aClGEAAAAJ),
+[Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en), 
+[Xiaoxiao Long](https://scholar.google.com/citations?hl=en&user=W3G5kZEAAAAJ), 
+[Ruqi Huang †](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en)
+
+<div align="left">
+  <a href="https://dancetog.github.io/"><img src="https://img.shields.io/static/v1?label=Homepage&message=DanceTogether&color=blue&logo=github-pages"></a> 
+  <a href="https://github.com/yisuanwang/DanceTog"><img src="https://img.shields.io/github/stars/yisuanwang/DanceTog?label=stars&logo=github&color=brightgreen" alt="GitHub Repo Stars"></a> 
+  <a href="https://arxiv.org/abs/2505.18078"><img src="https://img.shields.io/badge/arXiv-2505.18078-b31b1b.svg?style=flat-square" alt="arXiv"></a>
+  <!-- <a href="https://huggingface.co/papers/2505.18078"><img src="https://img.shields.io/static/v1?label=Paper&message=HuggingFace&color=yellow"></a> 
+  <a href="https://huggingface.co/spaces/BestWishYsh/ChronoMagic-Bench"><img src="https://img.shields.io/static/v1?label=LeaderBoard&message=HuggingFace&color=yellow"></a>  -->
+</div>
+
+  - This work generates identity-preserving multi-person interactive dance videos with controllable motion and appearance!
+
+</div>
+</div>
+
+
 
 <!-- [DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters](https://driveavatar.github.io/) -->
 <div class='paper-box'>
@@ -118,7 +164,6 @@ Chao Li,
 
 [Mingjin Chen *](https://scholar.google.com/citations?user=uLfubbgAAAAJ&hl=en&oi=sra), 
 [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
-[Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
 [Huan-ang Gao](https://scholar.google.com/citations?hl=en&user=WvbKfLgAAAAJ), 
 [Xiaoxue Chen](https://scholar.google.com/citations?hl=en&user=_tz64W0AAAAJ), 
 [Zhaoxin Fan](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
@@ -138,6 +183,7 @@ Chao Li,
 
 
 ## 👀 Multi-modal
+
 
 <!--IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web-->
 
@@ -226,11 +272,15 @@ Chao Li,
 <div class='paper-box-text' markdown="1">
 
 <h1 style="font-weight: bold">
-  Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object
+  FineStyler: Text-guided Instance-level Fine-grained Image Style Transfer
 </h1>
 
 [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
- Peng Rong, Jingbo Sun, Chao Li †, Xiang Li, [Hongwu Lv](http://homepage.hrbeu.edu.cn/web/lvhongwu?locale=zh_CN) 
+Rong Peng, 
+Xiang Li, 
+Jingbo Sun, 
+Hao Zhao, 
+Ruqi Huang
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yisuanwang/Soulstyler?label=stars&logo=github&color=brightgreen)](https://github.com/yisuanwang/Soulstyler) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cn4W7IlooDk5X9JXBvsENRtExKJShb98#scrollTo=F0LyDZnKoTuT) 
@@ -243,6 +293,9 @@ Chao Li,
 
 
 ## 🎙 NLP & LLM
+
+
+
 <!-- ICANN 2023 Towards Energy-Efficient Sentiment Classification with Spiking Neural Networks -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/pub_spike.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

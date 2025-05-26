@@ -62,6 +62,107 @@
     background-clip: text;
 }
 
+.gradient-text-dance {
+    // 默认
+    // background: linear-gradient(
+    //   to right,
+    //   #ff0000,
+    //   #ff7f00,
+    //   #ffff00,
+    //   #00ff00,
+    //   #0000ff,
+    //   #4b0082,
+    //   #8f00ff
+    // );
+
+    // // 舞蹈主题（粉紫渐变）
+    // background: linear-gradient(
+    //     45deg,
+    //     #ff9a9e,
+    //     #fecfef,
+    //     #fecfef,
+    //     #ffd1ff,
+    //     #c471f5,
+    //     #fa71cd
+    // );
+    // // 蓝紫科技风
+    // background: linear-gradient(
+    //     to right,
+    //     #667eea,
+    //     #764ba2,
+    //     #f093fb,
+    //     #f5576c,
+    //     #4facfe,
+    //     #00f2fe
+    //   );
+
+    // 日落金橙色
+    background: linear-gradient(
+        to right,
+        #ff8a00,
+        #e52e71,
+        #ff6b6b,
+        #feca57,
+        #ff9ff3,
+        #54a0ff
+        );
+    
+    //     // 方案四：海洋青蓝色
+    // background: linear-gradient(
+    //     to right,
+    //     #74b9ff,
+    //     #0984e3,
+    //     #a29bfe,
+    //     #6c5ce7,
+    //     #fd79a8,
+    //     #e84393
+    // );
+
+    // // 方案五：活力红粉色
+    // background: linear-gradient(
+    //     to right,
+    //     #ff7675,
+    //     #fd79a8,
+    //     #fdcb6e,
+    //     #e17055,
+    //     #d63031,
+    //     #e84393
+    // );
+    
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: dance-rainbow 5s linear infinite;
+    background-size: 200% auto;
+  }
+  
+// .gradient-text-dance {
+//     background: linear-gradient(
+//       45deg,
+//       #ff9a9e,
+//       #fecfef,
+//       #fecfef,
+//       #ffd1ff,
+//       #c471f5,
+//       #fa71cd
+//     );
+//     -webkit-background-clip: text;
+//     background-clip: text;
+//     color: transparent;
+//     animation: dance-gradient 3s ease-in-out infinite;
+//     background-size: 400% auto;
+//   }
+
+  @keyframes dance-rainbow {
+    0% {
+      background-position: 0% center;
+    }
+    100% {
+      background-position: 200% center;
+    }
+  }
+
+
   
     .paper-box {
     display: flex;

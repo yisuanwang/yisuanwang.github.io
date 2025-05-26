@@ -4,7 +4,7 @@
 Innovation and Entrepreneurship Competition Award Cumulative Awards **National \*10, Provincial \*45, School-level \*11**, totaling 66. <br>
 Honors awards cumulative awards **national \*6, provincial \*2, school-level \*20**, a total of 28. <br>
 Competition awards and individual honors total 94 (as of 11, 18, 2024). <br>
-[List of all awards received during undergraduate studies.](_pages/includes/heuAwards.html)
+[List of all awards received.](_pages/includes/heuAwards.html)
 
 ## Selected Awards and Honors
 

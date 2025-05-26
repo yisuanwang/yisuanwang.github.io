@@ -12,8 +12,7 @@
 
 # 💻 Experiences
 - *2024.06 - 2024.08*, [Lightillusions](https://www.lightillusions.com/), Shenzhen.
-- *2023.12 - 2024.05*, [Shenzhen International Graduate School (SIGS), Tsinghua University](https://www.sigs.tsinghua.edu.cn/en/), Shenzhen.
-- *2023.09 - 2023.12*, DISCOVERLab@[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), Wuxi.
-- *2023.04 - 2023.09*, Research Group of Speech and Language Technology,
+- *2023.08 - 2024.01*, DISCOVERLab@[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), Wuxi.
+- *2023.04 - 2023.08*, Research Group of Speech and Language Technology,
 National Laboratory of Pattern Recognition@[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), Remote.
 - *2021.07 - 2023.04*, [Modeling and Emulation in E-Government National Engineering Laboratory](https://egovlab.hrbeu.edu.cn/), Harbin.
