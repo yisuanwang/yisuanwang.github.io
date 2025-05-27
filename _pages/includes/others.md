@@ -15,4 +15,3 @@
 - *2023.08 - 2024.01*, DISCOVERLab@[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), Wuxi.
 - *2023.04 - 2023.08*, Research Group of Speech and Language Technology,
 National Laboratory of Pattern Recognition@[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), Remote.
-- *2021.07 - 2023.04*, [Modeling and Emulation in E-Government National Engineering Laboratory](https://egovlab.hrbeu.edu.cn/), Harbin.
