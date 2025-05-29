@@ -210,11 +210,14 @@ Chao Li,
 [Wei Zhang](https://scholar.google.com/citations?user=NaWMztYAAAAJ&hl=en&oi=sra), 
 [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
 Yaonan Gu,
-[Jian Yang](https://scholar.google.com/citations?user=i9opWEgAAAAJ&hl=en), Junjia Du, Binyuan Hui, 
+[Jian Yang](https://scholar.google.com/citations?user=i9opWEgAAAAJ&hl=en), 
+[Junjia Du](https://scholar.google.com/citations?user=gC28ufYAAAAJ&hl=en&oi=sra), 
+[Shaosheng Cao](https://scholar.google.com/citations?user=ZF0ntl4AAAAJ&hl=en&oi=ao), 
+[Binyuan Hui](https://scholar.google.com/citations?user=RBb3ItMAAAAJ&hl=en&oi=sra), 
 [Tianyu Liu](https://scholar.google.com/citations?user=6hHbBwwAAAAJ&hl=en), 
 [Jianxin Ma](https://scholar.google.com/citations?hl=en&user=WdDFFlIAAAAJ), 
-[Chang Zhou](https://scholar.google.com/citations?hl=en&user=QeSoG3sAAAAJ)
-
+[Chang Zhou](https://scholar.google.com/citations?hl=en&user=QeSoG3sAAAAJ),
+[Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ&hl=en&oi=ao)
 
 <a href="https://iw-bench-page.vercel.app/"><img src="https://img.shields.io/static/v1?label=Homepage&message=IW-bench&color=blue&logo=github-pages"></a> 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/HC-Guo/IWBench?label=stars&logo=github&color=brightgreen)](https://github.com/HC-Guo/IWBench) 
