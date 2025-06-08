@@ -10,17 +10,12 @@ I am now a first-year master’s student at Tsinghua University, supervised by *
 
 ---
 
-我将在 **2025 年 6 月 10–15 日** 前往美国田纳西州参加 **CVPR 2025**，并现场介绍我们的论文 *[DRiVE](https://driveavatar.github.io/)*。
-
-> **<span style="color:red">🔥 我正在积极寻找 2027 年秋季入学的博士（PhD）机会，研究方向包括 Avatar、AIGC、具身智能！</span>**
-
-如有合适的机会，欢迎联系我：<junhao-c24@mails.tsinghua.edu.cn>
-
----
-
 I will be in Tennessee, USA, **June 10–15, 2025** to attend **CVPR 2025** and present our paper *[DRiVE](https://driveavatar.github.io/)*.
 
 > **<span style="color:red">🔥 I am actively seeking PhD position starting Fall 2027 in Avatar, AIGC, and Embodied AI !</span>**
+> 
+> **<span style="color:red">🔥 I am looking for RA/visiting student opportunities in Avatars, AIGC, and Embodied AI !</span>**
+
 
 Feel free to reach out: <junhao-c24@mails.tsinghua.edu.cn>
 
@@ -30,4 +25,4 @@ Feel free to reach out: <junhao-c24@mails.tsinghua.edu.cn>
 
 [😥 Click here to enter emo time !](https://yisuanwang.github.io/emo)
 
-⬅️ Never place your mouse over the left avatar!
+<!-- ⬅️ Never place your mouse over the left avatar! -->
