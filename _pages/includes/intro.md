@@ -6,15 +6,13 @@ My google scholar is here <a href='https://scholar.google.com/citations?user=uVM
 I am now a first-year master’s student at Tsinghua University, supervised by **Prof [Ruqi Huang](https://rqhuang88.github.io/)**, and expect to graduate in **Fall 2027**.
 
 
-🧑‍💻 I closely collaborated with **Prof. [Hao Zhao](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)** at **[AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)**, **Prof. [Xiaoxiao Long](https://scholar.google.com/citations?user=W3G5kZEAAAAJ&hl=en)** at **Nanjing University**, **Dr. [Jianjin Xu](https://scholar.google.com/citations?user=mTV0usAAAAAJ&hl=en&oi=sra)** at **Carnegie Mellon University**, **Dr. [Junting Dong](https://scholar.google.com/citations?user=dEzL5pAAAAAJ&hl=en)** at **Shanghai AI Laboratory**, and **[Zijiao Zeng](https://openreview.net/profile?id=~Zijiao_Zeng1)** at **Tencent Games**.
 
 ---
 
-I will be in Tennessee, USA, **June 10–15, 2025** to attend **CVPR 2025** and present our paper *[DRiVE](https://driveavatar.github.io/)*.
 
 > **<span style="color:red">🔥 I am actively seeking PhD position starting Fall 2027 in Avatar, AIGC, and Embodied AI !</span>**
 > 
-> **<span style="color:red">🔥 I am looking for RA/visiting student opportunities in Avatars, AIGC, and Embodied AI !</span>**
+> **<span style="color:red">🔥 I am looking for RA/visiting student opportunities in Avatar, AIGC, and Embodied AI !</span>**
 
 
 Feel free to reach out: <junhao-c24@mails.tsinghua.edu.cn>
