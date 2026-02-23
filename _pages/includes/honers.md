@@ -6,7 +6,7 @@ Honors awards cumulative awards **national \*6, provincial \*2, school-level \*2
 Competition awards and individual honors total 94 (as of 11, 18, 2024). <br>
 [List of all awards received.](_pages/includes/heuAwards.html)
 
-## Selected Awards and Honors
+<!-- ## Selected Awards and Honors
 
 | Date Earned | Award Name | Remarks | 
 | 2024-11 | 🥉[2024 China Collegiate Computing Contest - Mobile Application Innovation Contest（2024-MAIC）](https://mp.weixin.qq.com/s/b60QcKYssJXDqAo3I26pvg)|**🥉National Third Prize** <br> Awarded by [Apple Inc.](http://www.appcontest.net/) | 
@@ -20,5 +20,5 @@ Competition awards and individual honors total 94 (as of 11, 18, 2024). <br>
 | 2022-09 | 🥈[2022 HUA WEI CUP National Undergraduate IOT Design Contest](http://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=2916&flag=2)| **🥈National Second Prize** <br>  Awarded by [Huawei Inc.](https://huawei.com) | 
 | 2022-09 | 🥉[2022 China Collegiate Computing Contest - Mobile Application Innovation Contest（2022-MAIC） ](https://mp.weixin.qq.com/s/SLTUPYVuVnZEPulpZu5ZPw)|**🥉National Third Prize** <br> Awarded by [Apple Inc.](http://www.appcontest.net/) | 
 | 2022-07 | 🥇[The 15th China University Computer Design Competition ](https://2022.jsjds.com.cn/Backend/Common/file/download?name=d6qHRHfkPz81TnnGu8UfzFuRCH7DeDrc.pdf)|  **🥇National First Prize** <br> **Featured works, 2 out of 60,000+ works** <br> Awarded by [China University Computer Design Competition Organizing Committee](https://jsjds.blcu.edu.cn/)| 
-| 2021-09| 🏆[2021 <font color="#ff0000">National Scholarship</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | **China, Top 1.078%** <br>Awarded by [Ministry of Education of the People's Republic of China](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | 
+| 2021-09| 🏆[2021 <font color="#ff0000">National Scholarship</font>](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) | **China, Top 1.078%** <br>Awarded by [Ministry of Education of the People's Republic of China](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html) |  -->
 
