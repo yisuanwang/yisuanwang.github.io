@@ -9,8 +9,9 @@ I am now a master’s student at **Tsinghua University**, supervised by **Prof. 
 
 > **<span style="color:red">🔥 I am actively seeking PhD positions starting Fall 2027 or RA/visiting student opportunities !</span>**
 
-> **<span style="color:red">🔥 我正在积极寻找 2027 年秋季开始的博士职位或研究助理/访问学生机会！</span>**
+> My current research focuses on **<span style="color:red">understanding, reasoning, and generation for Avatar/3D/4D/video/animation</span>**, and I am particularly interested in **<span style="color:red">spatial intelligence for embodied AI</span>**.
 
+---
 
 💼 I have some good friends (professors) who are <span style="color:red">recruiting</span> **Research Interns**, as well as **MS/PhD students** and **undergraduate research interns**, and can provide <span style="color:red">competitive internship salaries</span> or <span style="color:red">MS/PhD admission offers</span>. If you are interested in **3D / VLM / video / animation generation and understanding**, please feel free to contact me!
 
