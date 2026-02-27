@@ -2,15 +2,15 @@
 # 📖 Educations
 - *2024.08 - 2027.06*, M.Eng. in Data Science @ [Tsinghua University](https://www.tsinghua.edu.cn/en/), Shenzhen.
 - *2020.09 - 2024.06*, B.Eng. in Software Engineering (rank 1 / 223) @ [Harbin Engineering University](https://english.hrbeu.edu.cn/), Harbin.
-  
+
 <!-- # 💬 Personal Reports -->
 
 <!-- # 💬 Invited Talks -->
 
 
 # 💻 Experiences
-- *2026.02 - now*, Research Intern Supervisor. <span style="color:red">**We are recruiting Research Interns! Based in Beijing/Hangzhou/Shenzhen, top-tier intern salary. Research directions: 3D / Video / Animation understanding and generation, Spatial Intelligence, VLM / Diffusion related.**</span>
-- *2025.05 - 2026.01*, Research Intern, IEG@[Tencent Games](), Shenzhen.
+<!-- -  <span style="color:red">**We are recruiting Research Interns! Based in Beijing/Hangzhou/Shenzhen, top-tier intern salary. Research directions: 3D / Video / Animation understanding and generation, Spatial Intelligence, VLM / Diffusion related.**</span> -->
+
 - *2025.01 - 2025.05*, Research Intern, [Shanghai AI Lab](), Shanghai.
 - *2024.09 - 2025.01*, Research Intern, AIGrowthGroup@[TAL Education Group](), Beijing.
 - *2024.06 - 2024.08*, Research Intern, [Lightillusions](https://www.lightillusions.com/), Shenzhen.
