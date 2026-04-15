@@ -51,12 +51,12 @@
 .page__content {
   #about-me{
     margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
+      &:before {
+        content: '';
+        display: block;
+        position: relative;
+        width: 0;
+        height: 10em;
         margin-top: -10em;
     }
   }
@@ -64,6 +64,13 @@
     margin-top: 1em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+  }
+
+  /* remove h1 border inside home sections */
+  .home-shell & h1,
+  .home-section & h1 {
+    border-bottom: none;
+    padding-bottom: 0;
   }
 
   p, li, dl {

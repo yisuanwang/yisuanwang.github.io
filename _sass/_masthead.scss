@@ -1,23 +1,26 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD — Apple-style frosted glass nav
    ========================================================================== */
 
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
-  border-bottom: 1px solid $border-color;
+  background: rgba(255, 255, 255, 0.80);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
   z-index: 20;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: .5em;
+    padding: 0 1.5rem;
     font-family: $sans-serif-narrow;
+    font-size: 13px;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -29,6 +32,12 @@
 
     a {
       text-decoration: none;
+      color: #6e6e73;
+      transition: color 0.18s ease;
+
+      &:hover {
+        color: #1d1d1f;
+      }
     }
   }
 }
@@ -56,7 +65,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 2.2em;
     font-weight: 700;
   }
 }

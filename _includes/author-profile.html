@@ -3,75 +3,48 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
-
-  <!-- <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
-  </div> -->
-
-  <!-- <div class="author__avatar">
-      <video autoplay="" class="video-style"  loop="" muted="" playsinline="" poster="images/avatar_ysw.jpeg" width="100%">
-        <source src="{{ author.avatar }}" type="video/mp4" >
+  <div class="author__avatar">
+    <div class="author__avatar-media">
+      <img src="images/cjh.jpg" class="author__avatar-img" alt="{{ author.name }}">
+      <video class="author__avatar-video" autoplay loop muted playsinline poster="images/cjh.jpg">
+        <source src="images/avatar_ysw-compress.mp4" type="video/mp4">
       </video>
-  </div>   -->
-
-  <style>
-    .gradient-text {
-      background-image: linear-gradient(45deg, #4c96d7, #6cdc79);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-weight: bold;
-    }
-    /* .author__avatar {
-      position: relative;
-      width: 100%; 
-      display: inline-block;
-    } */
-  
-    .author__avatar-img, .video-stylea {
-      width: 100%;
-      display: block;
-    }
-  
-    .video-stylea {
-      position: absolute;
-      top: 0;
-      left: 0;
-      display: none;
-    }
-  </style>
-  
-  <div class="author__avatar" onmouseover="showVideo()" onmouseout="hideVideo()">
-    <img src="images/cjh.jpg" class="author__avatar-img" alt="{{ author.name }}">
-    <video id="authorVideo" class="video-stylea" loop muted playsinline poster="images/cjh.jpg">
-      <source src="images/avatar_ysw-compress.mp4" type="video/mp4">
-    </video>
-</div>
-
-<script>
-  function showVideo() {
-    var video = document.getElementById('authorVideo');
-    video.style.display = 'block';
-    video.play();
-  }
-
-  function hideVideo() {
-    var video = document.getElementById('authorVideo');
-    video.pause();
-    video.style.display = 'none';
-  }
-</script>
-
+    </div>
+    <div class="author__availability">Open to PhD 2027</div>
+  </div>
 
   <div class="author__content">
+    <p class="author__eyebrow">Researcher</p>
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <p class="author__focus">Research on multimodal 3D generation, avatar animation, interactive video, and embodied intelligence.</p>
+    <div class="author__highlights">
+      {% if author.location %}<span>{{ author.location }}</span>{% endif %}
+      <span>Tsinghua University</span>
+      <span>Rank 1 / 223</span>
+    </div>
+  </div>
+
+  <div class="author__primary-links">
+    {% if author.email %}
+      <a href="mailto:{{ author.email }}">Email</a>
+    {% endif %}
+    {% if author.googlescholar %}
+      <a href="{{ author.googlescholar }}">Scholar</a>
+    {% endif %}
+    {% if author.github %}
+      <a href="https://github.com/{{ author.github }}">GitHub</a>
+    {% endif %}
+    {% if author.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}">LinkedIn</a>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+        <li class="author__urls-note">{{ site.description }}</li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>

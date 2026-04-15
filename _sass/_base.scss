@@ -10,22 +10,22 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.15;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 h1 {
