@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% capture intro_content %}{% include_relative includes/intro.md %}{% endcapture %}
+{% if jekyll.environment == "development" %}
+  {% capture intro_content %}{% include_relative includes/intro_local.md %}{% endcapture %}
+{% else %}
+  {% capture intro_content %}{% include_relative includes/intro.md %}{% endcapture %}
+{% endif %}
 {% capture news_content %}{% include_relative includes/news.md %}{% endcapture %}
 {% capture pub_content %}{% include_relative includes/pub.md %}{% endcapture %}
 {% capture honors_content %}{% include_relative includes/honers.md %}{% endcapture %}
@@ -26,8 +30,8 @@ redirect_from:
       <div class="home-combined-profile">
         <div class="home-combined-avatar" id="avatar-hover-zone">
           <div class="author__avatar-media">
-            <img src="images/cjh.jpg" class="author__avatar-img" alt="{{ site.author.name }}">
-            <video class="author__avatar-video" id="avatar-video" autoplay loop muted playsinline poster="images/cjh.jpg">
+            <img src="images/cjh-2605.png" class="author__avatar-img" alt="{{ site.author.name }}">
+            <video class="author__avatar-video" id="avatar-video" autoplay loop muted playsinline poster="images/cjh-2605.png">
               <source src="images/avatar_ysw-compress.mp4" type="video/mp4">
             </video>
           </div>
@@ -61,32 +65,10 @@ redirect_from:
 
   </section>
 
-  <!-- 2. Research Themes — dark meta-style section -->
-  <section class="home-section home-section--themes">
-    <div class="home-section__intro">
-      <p class="home-section__eyebrow">Research Story</p>
-      <h2 class="home-section__title">Perceive the world in 3D. Generate it with control.</h2>
-      <p class="home-section__lede">Two interlocking lines of research: building a machine that truly understands the 3D world, then one that can generate any part of it on demand.</p>
-    </div>
-    <div class="research-themes research-themes--two">
-      <div class="research-theme-card">
-        <span class="research-theme-icon">🌐</span>
-        <h3>3D/4D World Modeling, Spatial Intelligence &amp; Embodied AI</h3>
-        <p>Starting from a monocular video or a single image, I reconstruct simulation-ready 4D scenes with articulated objects and physics-aware dynamics. The long-term goal is to build the perceptual backbone that lets embodied agents act in the open world.</p>
-        <div class="research-theme-tags">
-          <span>4D Generation</span><span>Reconstruction</span><span>Articulation</span><span>Spatial Intelligence</span><span>Embodied AI</span>
-        </div>
-      </div>
-      <div class="research-theme-card">
-        <span class="research-theme-icon">🎨</span>
-        <h3>Generative Modeling for Structured &amp; Controllable Worlds</h3>
-        <p>Beyond faithful reconstruction, I design generative systems that produce controllable, structured outputs — animated avatars and garments, vector motion graphics, and multimodal reasoning agents — where every element is semantically grounded and compositionally editable.</p>
-        <div class="research-theme-tags">
-          <span>Avatar</span><span>Animation</span><span>Garment</span><span>Vector Graphics</span><span>Structured Generation</span><span>VLM</span>
-        </div>
-      </div>
-    </div>
-  </section>
+  <!-- 2. Research Themes — local-only section -->
+  {% if jekyll.environment == "development" %}
+  {% include_relative includes/research_story_local.html %}
+  {% endif %}
 
   <!-- 3. Selected Work — publications by category -->
   <span class="anchor" id="publications"></span>
@@ -154,11 +136,11 @@ redirect_from:
   // ── Badge color classification ──────────────────────
   document.querySelectorAll('.badge').forEach(function (b) {
     var t = b.textContent.trim().toUpperCase();
-    if (/\b(ACL|CVPR)\b/.test(t)) {
+    if (/\b(ACL|CVPR|ICCV)\b/.test(t)) {
       b.classList.add('badge--red');
     } else if (/\bICLR\b/.test(t)) {
       b.classList.add('badge--blue');
-    } else if (/\b(COLING|EMNLP)\b/.test(t)) {
+    } else if (/\b(COLING|EMNLP|ECCV)\b/.test(t)) {
       b.classList.add('badge--yellow');
     } else if (/\b(ICANN|MVA|MACHINE VISION)\b/.test(t)) {
       b.classList.add('badge--green');
@@ -182,6 +164,8 @@ redirect_from:
     // Venue detection patterns → normalized name
     var venueRules = [
       [/\bCVPR\b/,              'CVPR'],
+      [/\bECCV\b/,              'ECCV'],
+      [/\bICCV\b/,              'ICCV'],
       [/\bICLR\b/,              'ICLR'],
       [/\bACL\b/,               'ACL'],
       [/\bEMNLP\b/,             'EMNLP'],
@@ -216,7 +200,7 @@ redirect_from:
 
     // Collect values that actually exist in the DOM
     var allBoxes  = Array.from(body.querySelectorAll('.paper-box'));
-    var venueOrder = ['CVPR','ICLR','ACL','EMNLP','COLING','ICANN','MVA','arXiv','Under Review'];
+    var venueOrder = ['CVPR','ECCV','ICCV','ICLR','ACL','EMNLP','COLING','ICANN','MVA','arXiv','Under Review'];
     var catOrder   = ['3D / Embodied','Structured Worlds','Perception','Foundation Models'];
     var tagOrder   = ['3D','4D','Video','Image','Human','Avatar','Scene','Object','Garment','Texture','Structured Data','Vector Graphics','Generation','Generative Rendering','Reconstruction','Articulate Objects','Animation','Interaction','Rigging','Perception','Understanding','Dense Prediction','Multimodal','Audio','Neuromorphic','LLM','VLM','Agents','Reasoning','Benchmark','Evaluation','Code','Web','NLP'];
     var usedTagSet = new Set();

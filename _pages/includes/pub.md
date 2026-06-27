@@ -4,31 +4,45 @@
 
 ### World Representation, Articulation, and Spatial Intelligence
 
-<!-- Any4D -->
-<div class='paper-box' data-tags="3D, 4D, Scene, Generation, Reconstruction">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
-  <img src='images/any4d.png' alt="Any4D" width="100%">
+<!-- Feedforward 3d -->
+<div class='paper-box' data-tags="3D, Editing, Generation, Structured Data">
+  <div class="badge badge--gray">inreview</div>
+  <div class='paper-box-image'><div>
+  <img src='images/pub_sigasia_1804.jpg' alt="Feedforward 3D Editing Learns from Semantic-Part Transformation" width="100%">
   </div></div>
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">
-    Any4D: 4D Scene Generation via Generation-Reconstruction Co-Design with Shared Camera Trajectories
+    <a href="https://dennis-jwweng.github.io/pxform/" target="_blank" style="text-decoration: none; color: inherit;">
+      Feedforward 3D Editing Learns from Semantic-Part Transformation
+    </a>
   </h1>
 
-  Hao Li,
-  [**<font color="#fc8803">Junhao Chen †</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en)
+  Jiawei Weng *,
+  Saining Zhang * †,
+  Zhenxin Diao *,
+  Peishuo Li,
+  Henghaofan Zhang,
+  [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+  Hao Zhao †
 
   <div align="left">
+    <a href="https://dennis-jwweng.github.io/pxform/"><img src="https://img.shields.io/badge/Project%20Page-333399.svg?logo=googlehome" height="22px"></a>
+    <a href="https://arxiv.org/abs/2605.27351"><img src="https://img.shields.io/badge/arXiv-2605.27351-b5212f.svg?logo=arxiv" height="22px"></a>
+    <a href="https://huggingface.co/datasets/ART-3D/Pxform_v1"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Pxform__v1-d96902.svg" height="22px"></a>
+    <a href="https://huggingface.co/ART-3D/PartFlow_models"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-PartFlow__models-276cb4.svg" height="22px"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" height="22px"></a>
   </div>
 
-  - Any4D is a generation-reconstruction co-design framework that produces editable 4D scenes from open-ended prompts on a single consumer GPU, using shared Plücker trajectory tensors and hybrid motion bases for cross-stage geometric consistency.
+  - PartFlow is a feedforward 3D editing network trained on Pxform, editing an existing 3D asset to match a target edit image without per-asset optimization or 3D masks at inference.
 
   </div>
 </div>
 
 <!-- OVOW -->
 <div class='paper-box' data-tags="3D, 4D, Video, Scene, Structured Data, Reconstruction">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
+  <div class="badge badge--yellow">ECCV 2026</div>
+  <div class='paper-box-image'><div>
   <img src='images/OVOW.png' alt="OVOW" width="100%">
   </div></div>
   <div class='paper-box-text' markdown="1">
@@ -37,8 +51,8 @@
     One Video, One World: Turning Monocular Video into Physical 4D Scenes
   </h1>
 
-  [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
-  Boran Zhang,
+  [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
+  Boran Zhang *,
   [Mingjin Chen](https://scholar.google.com/citations?user=uLfubbgAAAAJ&hl=en&oi=sra),
   Henghaofan Zhang,
   [Saining Zhang](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=en&oi=ao),
@@ -53,37 +67,11 @@
   </div>
 </div>
 
-<!-- Artisan -->
-<div class='paper-box' data-tags="3D, Image, Object, Structured Data, Articulate Objects, Generation">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
-  <img src='images/Artisan.png' alt="Artisan" width="100%">
-  </div></div>
-  <div class='paper-box-text' markdown="1">
-
-  <h1 style="font-weight: bold">
-    Artisan: Learning to Decompose and Articulate Objects from a Single Image
-  </h1>
-
-  [Saining Zhang](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=en&oi=ao),
-  Peishuo Li,
-  Licheng Shen,
-  Guohao Chen,
-  Anchi Lv,
-  Peilin Yang,
-  Yongzhi Li,
-  Yuxiang Liu,
-  [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
-  [Hao Zhao †](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en)
-
-  - Artisan learns structure-aware articulated object generation from a single image by combining layout prediction with joint geometry-and-articulation modeling.
-
-  </div>
-</div>
-
 <!-- Animator-Centric Skeleton Generation -->
 <div class='paper-box' data-tags="3D, Object, Structured Data, Articulate Objects, Rigging, Animation, Generation">
+  <div class="badge badge--red">CVPR 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">CVPR 2026</div>
+
         <!-- <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://dancetog.github.io/', '_blank');">
         <source src="images/pub_animator_ske_gen.png" type="video/mp4">
@@ -111,8 +99,9 @@
 
 <!-- CVPR 2025 DRiVE -->
 <div class='paper-box' data-tags="3D, Human, Avatar, Articulate Objects, Rigging, Animation, Generation">
+  <div class="badge badge--red">CVPR 2025</div>
   <div class='paper-box-image'>
-      <div class="badge">CVPR 2025</div>
+
         <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://driveavatar.github.io/', '_blank');">
         <source src="images/pub_DRiVE.mp4" type="video/mp4">
@@ -156,8 +145,9 @@
 
 <!-- MVA 2025, Ultraman -->
 <div class='paper-box' data-tags="3D, Image, Human, Avatar, Texture, Reconstruction">
+  <div class="badge badge--green">Machine Vision and Applications 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">Machine Vision and Applications 2026</div>
+
       <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://air-discover.github.io/Ultraman/', '_blank');">
         <source src="images/pub_ultraman_Compressed.mp4" type="video/mp4">
@@ -179,7 +169,6 @@
   [Zhaoxin Fan †](https://scholar.google.com/citations?user=JHvyYDQAAAAJ), 
   [Hao Zhao †](https://scholar.google.com/citations?hl=en&user=ygQznUQAAAAJ)
 
-
   <a href="https://air-discover.github.io/Ultraman/"><img src="https://img.shields.io/static/v1?label=Homepage&message=Ultraman&color=blue&logo=github-pages"></a> 
   [![GitHub Repo Stars](https://img.shields.io/github/stars/tomorrow1238/Ultraman?label=stars&logo=github&color=brightgreen)](https://github.com/tomorrow1238/Ultraman) 
   [![arXiv](https://img.shields.io/badge/arXiv-2403.12028-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.12028)
@@ -190,8 +179,9 @@
 
 <!-- From Frames to Sequences -->
 <div class='paper-box' data-tags="Video, Human, Dense Prediction">
+  <div class="badge badge--gray">arxiv 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">arxiv 2026</div>
+
         <!-- <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://xingy038.github.io/F2S/', '_blank');">
         <source src="images/pub_from_frames.png" type="video/mp4">
@@ -215,7 +205,6 @@
 
   - Learns temporally consistent human-centric segmentation, depth, and normals via synthetic video supervision and a two-stage static→dynamic training pipeline.
 
-
   </div>
 </div>
 
@@ -223,8 +212,9 @@
 
 <!-- HVG-3D -->
 <div class='paper-box' data-tags="3D, Video, Interaction, Generation, Generative Rendering, Multimodal">
+  <div class="badge badge--red">CVPR 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">CVPR 2026</div>
+
         <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://hvg3d.github.io/', '_blank');">
         <source src="images/pub_hvg3d.mp4" type="video/mp4">
@@ -248,14 +238,14 @@
 
   - HVG-3D: A 3D-aware HOI video diffusion framework with 3D ControlNet that turns one image plus 3D control signals into spatially precise, temporally coherent interaction videos.
 
-
   </div>
 </div>
 
 <!-- DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation -->
 <div class='paper-box' data-tags="Video, Human, Interaction, Generation">
+  <div class="badge badge--blue">ICLR 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">ICLR 2026</div>
+
         <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://dancetog.github.io/', '_blank');">
         <source src="images/pub_dancetog.mp4" type="video/mp4">
@@ -303,8 +293,9 @@
 
 <!-- LottieGPT -->
 <div class='paper-box' data-tags="Animation, Structured Data, Vector Graphics, Generation, Multimodal, VLM, Code">
+  <div class="badge badge--red">CVPR 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">CVPR 2026</div>
+
         <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://lottiegpt.github.io/', '_blank');">
         <source src="images/pub_lottiegpt.mp4" type="video/mp4">
@@ -319,10 +310,13 @@
     </a>
   </h1>
 
-  [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en), Kejun Gao *, Yuehan Cui, [Mingze Sun](https://scholar.google.com/citations?user=TTW2mVoAAAAJ&hl=en), [Mingjin Chen](https://scholar.google.com/citations?user=uLfubbgAAAAJ&hl=en&oi=sra), Shaohui Wang, [Xiaoxiao Long](https://scholar.google.com/citations?hl=en&user=W3G5kZEAAAAJ), [Fei Ma](https://scholar.google.com/citations?user=RJOEAMYAAAAJ&hl=zh-CN), [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ), [Ruqi Huang †](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en), [Hao Zhao †](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en)
+  [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en), Kejun Gao *, Yuehan Cui, [Mingze Sun](https://scholar.google.com/citations?user=TTW2mVoAAAAJ&hl=en), [Mingjin Chen](https://scholar.google.com/citations?user=uLfubbgAAAAJ&hl=en&oi=sra), Shaohui Wang, [Xiaoxiao Long](https://scholar.google.com/citations?hl=en&user=W3G5kZEAAAAJ), [Fei Ma](https://scholar.google.com/citations?user=RJOEAMYAAAAJ&hl=zh-CN), [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ), [Hao Zhao †](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en), [Ruqi Huang †](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en)
 
   <div align="left">
     <a href="https://lottiegpt.github.io/"><img src="https://img.shields.io/static/v1?label=Homepage&message=LottieGPT&color=blue&logo=github-pages"></a>
+    <a href="https://github.com/yisuanwang/LottieGPT"><img src="https://img.shields.io/github/stars/yisuanwang/LottieGPT?label=Code&logo=github&color=brightgreen" alt="GitHub Repo Stars"></a>
+    <a href="https://huggingface.co/datasets/LottieGPT/LottieSVG-10M"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-LottieSVG--10M-d96902.svg" alt="LottieSVG-10M"></a>
+    <a href="https://huggingface.co/datasets/LottieGPT/LottieAnimation-660K"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-LottieAnimation--660K-d96902.svg" alt="LottieAnimation-660K"></a>
   </div>
 
   - Tokenizes Lottie vector animations and finetunes a multimodal model to generate coherent, editable vector animations from text or visual prompts.
@@ -330,41 +324,11 @@
   </div>
 </div>
 
-
-
-<!-- UniGarment -->
-<div class='paper-box' data-tags="Image, Garment, Texture, Structured Data, Reconstruction, VLM, Agents, Multimodal">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
-  <img src='images/unigarment.png' alt="UniGarment" width="100%">
-  </div></div>
-  <div class='paper-box-text' markdown="1">
-
-  <h1 style="font-weight: bold">
-    UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization
-  </h1>
-
-  [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
-  Jing Kong *,
-  [Mingjin Chen](https://scholar.google.com/citations?user=uLfubbgAAAAJ&hl=en&oi=sra),
-  Boran Zhang,
-  [Saining Zhang](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=en&oi=ao),
-  [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en),
-  [Ruqi Huang†](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en),
-  [Fei Ma†](https://scholar.google.com/citations?user=RJOEAMYAAAAJ&hl=zh-CN),
-  [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ)
-
-  <div align="left">
-  </div>
-
-  - UniGarment is a closed-loop framework that tightly couples topology and texture through chain-of-thought sewing pattern prediction, VLM-based verification, panel-conditioned texture normalization, and seam quality evaluation for simulation-ready garment digitization from a single photograph.
-
-  </div>
-</div>
-
 <!-- GarmentGPT -->
 <div class='paper-box' data-tags="Garment, Structured Data, Generation, VLM, Multimodal">
+  <div class="badge badge--blue">ICLR 2026</div>
   <div class='paper-box-image'>
-      <div class="badge">ICLR 2026</div>
+
         <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://openreview.net/forum?id=XzXKnazRBF', '_blank');">
         <source src="images/pub_garmentgpt.mp4" type="video/mp4">
@@ -382,18 +346,17 @@
   <div align="left">
   </div>
   [\[📜Paper\]](https://openreview.net/forum?id=XzXKnazRBF)
-  
 
   - Uses RVQ-VAE tokenization and a VLM generator to produce garment sewing patterns from discrete latent tokens, achieving strong accuracy on large curated datasets.
 
   </div>
 </div>
 
-
 <!-- COLING 2025, Idea23D -->
 <div class='paper-box' data-tags="3D, Structured Data, Generation, Multimodal, LLM, Agents">
+  <div class="badge badge--yellow">COLING 2025</div>
   <div class='paper-box-image'>
-      <div class="badge">COLING 2025</div>
+
       <video autoplay class="video-style" loop muted playsinline poster="images/spinner.svg" width="100%" 
             onclick="window.open('https://idea23d.github.io/', '_blank');">
         <source src="images/pub_idea23d.mp4" type="video/mp4">
@@ -405,7 +368,6 @@
       <span class="gradient-text-idea23d">Idea23D</span>: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
     </a>
   </h1>
-
 
   [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
   [Xiang Li *](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
@@ -433,12 +395,12 @@
   </div>
 </div>
 
-
 ### Controllable Visual Generation
 
 <!-- Soulstyler -->
 <div class='paper-box' data-tags="Image, Generation, Multimodal">
-  <div class='paper-box-image'><div><div class="badge">arxiv 2023</div>
+  <div class="badge badge--gray">arxiv 2023</div>
+  <div class='paper-box-image'><div>
   <img src='images/pub_soulstyler.jpg' alt="sym" width="100%">
   </div></div>
   <div class='paper-box-text' markdown="1">
@@ -465,34 +427,10 @@
 
 ## 🎙 Multimodal Perception and Understanding
 
-<!-- Learning Micro-Motion Audio from Video via Neuromorphic Event Streams -->
-<div class='paper-box' data-tags="Video, Audio, Generation, Multimodal, Neuromorphic">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
-  <img src='images/Micro-Motion-Audio.png' alt="MicroFoley" width="100%">
-  </div></div>
-  <div class='paper-box-text' markdown="1">
-
-  <h1 style="font-weight: bold">
-    Learning Micro-Motion Audio from Video via Neuromorphic Event Streams
-  </h1>
-
-  Lin Chen,
-  Jingping Fang,
-  Hairui Liu,
-  Chenyang Xu,
-  [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
-  Henghaofan Zhang,
-  XiXiang,
-  Xiaoming Chen
-
-  - MicroFoley generates physically aligned audio from video by using neuromorphic event streams to capture subtle sub-frame motions that standard RGB frames miss.
-
-  </div>
-</div>
-
 <!-- A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR -->
 <div class='paper-box' data-tags="Video, Perception, Multimodal, Neuromorphic">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
+  <div class="badge badge--yellow">ECCV 2026</div>
+  <div class='paper-box-image'><div>
   <img src='images/MultiSpeakerVSR.png' alt="LipsFlow" width="100%">
   </div></div>
   <div class='paper-box-text' markdown="1">
@@ -515,13 +453,14 @@
   </div>
 </div>
 
-
 <!-- COLING 2024 MMAD：Multi-modal Movie Audio Description -->
 <div class="paper-box" data-tags="Video, Audio, Multimodal, Understanding">
+  <div class="badge badge--yellow">COLING 2024</div>
+
     <!-- Paper Box Image Section -->
     <div class="paper-box-image">
       <div>
-        <div class="badge">COLING 2024</div>
+
         <!-- Clickable Image with Link -->
         <img src="images/pub_mmad.png" alt="sym" width="100%" 
             style="cursor: pointer;" 
@@ -536,7 +475,6 @@
     </a>
   </h1>
 
-
   [Xiaojun Ye](https://scholar.google.com/citations?user=BKMYsm4AAAAJ&hl=en), 
   [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
   [Xiang Li](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=zh-CN), 
@@ -544,7 +482,6 @@
   Chao Li,
   [Sheng Zhou †](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN), 
   [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=en)
-
 
   <a href="https://daria8976.github.io/mmad-page/"><img src="https://img.shields.io/static/v1?label=Homepage&message=MMAD&color=blue&logo=github-pages"></a> 
   [![GitHub Repo Stars](https://img.shields.io/github/stars/Daria8976/MMAD?label=stars&logo=github&color=brightgreen)](https://github.com/Daria8976/MMAD) 
@@ -557,40 +494,16 @@
 ## 🧠 Foundation Models, Reasoning, and Evaluation
 
 
-<!-- GARL -->
-<div class='paper-box' data-tags="LLM, Agents, Reasoning">
-  <div class='paper-box-image'><div><div class="badge">inreview</div>
-  <img src='images/GARL.jpg' alt="GARL" width="100%">
-  </div></div>
-  <div class='paper-box-text' markdown="1">
-
-  <h1 style="font-weight: bold">
-    GARL: A Guidance-Aware Reinforcement Learning Framework for Dual-Agent Mathematical Reasoning
-  </h1>
-
-  Yuxiang Feng,
-  Zheng Wang,
-  Chi Zhang,
-  [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
-  [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en),
-  Bo Xu
-
-  - A guidance-aware dual-agent reinforcement learning framework where a Coach and an Actor co-evolve to deliver stronger mathematical reasoning with much lower inference overhead than typical multi-agent systems.
-
-  </div>
-</div>
-
-
-
 <!-- PairCoder -->
 <div class='paper-box' data-tags="LLM, Agents, Structured Data, Code, Generation">
-  <div class='paper-box-image'><div><div class="badge">ACL 2026</div>
+  <div class="badge badge--red">ACL 2026</div>
+  <div class='paper-box-image'><div>
   <img src='images/pub_paircoder.jpg' alt="PairCoder" width="100%">
   </div></div>
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">
-    From Pair Programming to LLM Collaboration: A Two-Agent Framework for Code Generation
+    PairCoder: Pair Programming-Inspired Two-Agent Collaboration for Code Generation
   </h1>
 
   [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
@@ -607,13 +520,12 @@
   </div>
 </div>
 
-
-
 <!--EMNLP 2025, LLMsPark -->
 <div class='paper-box' data-tags="LLM, Agents, Benchmark, Evaluation">
+  <div class="badge badge--yellow">EMNLP 2025</div>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">EMNLP 2025</div>
+
       <img src="images/pub_llmspark.jpg" alt="sym" width="100%" 
            style="cursor: pointer;" 
            onclick="window.open('https://llmsparks.github.io/', '_blank');">
@@ -644,12 +556,12 @@
   </div>
 </div>
 
-
 <!-- ACL 2025 IW-Bench -->
 <div class='paper-box' data-tags="VLM, Structured Data, Benchmark, Evaluation, Web, Code">
+  <div class="badge badge--red">ACL 2025</div>
     <div class='paper-box-image'>
       <div>
-        <div class="badge">ACL 2025</div>
+
         <img src="images/pub_iwbench.svg" alt="sym" width="100%" 
             style="cursor: pointer;" 
             onclick="window.open('https://iw-bench-page.vercel.app/', '_blank');">
@@ -663,7 +575,6 @@
       IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web
     </a>
   </h1>
-
 
   [Hongcheng Guo](https://scholar.google.com/citations?hl=en&user=eynbo4cAAAAJ), 
   [Wei Zhang](https://scholar.google.com/citations?user=NaWMztYAAAAJ&hl=en&oi=sra), 
@@ -688,7 +599,8 @@
 
 <!-- EMNLP 2023 ZhuJiu -->
 <div class='paper-box' data-tags="LLM, Benchmark, Evaluation, NLP">
-  <div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/pub_zhujiu.jpg' alt="sym" width="100%"></div></div>
+  <div class="badge badge--yellow">EMNLP 2023</div>
+  <div class='paper-box-image'><div><img src='images/pub_zhujiu.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">
@@ -711,7 +623,8 @@
 
 <!-- ICANN 2023 Towards Energy-Efficient Sentiment Classification with Spiking Neural Networks -->
 <div class='paper-box' data-tags="Neuromorphic, NLP">
-  <div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/pub_spike.png' alt="sym" width="100%"></div></div>
+  <div class="badge badge--green">ICANN 2023</div>
+  <div class='paper-box-image'><div><img src='images/pub_spike.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">

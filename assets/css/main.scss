@@ -1126,8 +1126,10 @@ p > code, a > code, li > code, figcaption > code, td > code {
 
 // Venue chips — colored active states matching badge palette
 .pub-filter-chip[data-venue="CVPR"].is-active,
+.pub-filter-chip[data-venue="ICCV"].is-active,
 .pub-filter-chip[data-venue="ACL"].is-active  { background: #ff3b30; border-color: transparent; color: #fff; }
 .pub-filter-chip[data-venue="ICLR"].is-active { background: #0071e3; border-color: transparent; color: #fff; }
+.pub-filter-chip[data-venue="ECCV"].is-active,
 .pub-filter-chip[data-venue="EMNLP"].is-active,
 .pub-filter-chip[data-venue="COLING"].is-active { background: #f59e0b; border-color: transparent; color: #fff; }
 .pub-filter-chip[data-venue="ICANN"].is-active,
@@ -1354,6 +1356,7 @@ p > code, a > code, li > code, figcaption > code, td > code {
 // Badge — venue label (CVPR, ICLR, etc.)
 // Color classes assigned by JS based on badge text content.
 .badge {
+    position: absolute;
     top: 0.95rem;
     left: 1rem;
     margin-top: 0;
@@ -1372,7 +1375,7 @@ p > code, a > code, li > code, figcaption > code, td > code {
     box-shadow: 0 2px 6px rgba(0,0,0,0.18);
 }
 
-// ACL, CVPR → red
+// ACL, CVPR, ICCV → red
 .badge--red {
     background: #ff3b30;
     box-shadow: 0 2px 8px rgba(255, 59, 48, 0.35);
@@ -1384,7 +1387,7 @@ p > code, a > code, li > code, figcaption > code, td > code {
     box-shadow: 0 2px 8px rgba(0, 113, 227, 0.35);
 }
 
-// COLING, EMNLP → yellow/amber
+// ECCV, COLING, EMNLP → yellow/amber
 .badge--yellow {
     background: #f59e0b;
     box-shadow: 0 2px 8px rgba(245, 158, 11, 0.35);
@@ -1478,7 +1481,10 @@ p > code, a > code, li > code, figcaption > code, td > code {
 }
 
 .research-theme-icon {
-    font-size: 1.75rem;
+    font-size: 1.55rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: rgba(255, 255, 255, 0.34);
     line-height: 1;
     display: block;
 }
