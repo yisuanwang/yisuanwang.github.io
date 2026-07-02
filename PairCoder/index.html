@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PairCoder++: Pair Programming as a Universal Paradigm for Verified Code-Driven Multimodal and Structured-Artifact Generation</title>
+<meta name="description" content="PairCoder grounds code review in the toolchain and realizes it as two-agent pair programming. A Driver writes the program, a Navigator reviews it against verification evidence, and the two switch roles when errors persist.">
+<meta property="og:title" content="PairCoder++: Pair Programming as a Universal Paradigm for Verified Code-Driven Multimodal and Structured-Artifact Generation">
+<meta property="og:description" content="Two-agent pair programming for code-driven multimodal generation, verified by the toolchain. 17 benchmarks, 7 models, 3 vendors.">
+<meta property="og:image" content="assets/img/teaser_multidomain.png">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="accepted-bar">
+  <span class="trophy">🏆</span> Accepted to <strong>ACL 2026 (Findings)</strong>
+</div>
+
+<nav class="topnav">
+  <div class="nav-inner">
+    <a class="brand" href="#top">PairCoder++</a>
+    <div class="nav-links">
+      <a href="#abstract">Abstract</a>
+      <a href="#method">Method</a>
+      <a href="#results">Results</a>
+      <a href="#explore">Explore</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#crossmodel">Cross-Model</a>
+      <a href="#bibtex">BibTeX</a>
+    </div>
+  </div>
+</nav>
+
+<header id="top" class="hero">
+  <div class="container">
+    <p class="venue"><span class="acl-badge">ACL 2026 · Findings</span> Code-Driven Multimodal &amp; Structured-Artifact Generation</p>
+    <h1 class="title">PairCoder++: Pair Programming as a Universal Paradigm for Verified<br>Code-Driven Multimodal and Structured-Artifact Generation</h1>
+
+    <div class="authors">
+      <span><a href="#">Junhao Chen</a><sup>1</sup></span>
+      <span><a href="#">Xiang Li</a><sup>2</sup></span>
+      <span><a href="#">Mingjin Chen</a><sup>3</sup></span>
+      <span><a href="#">Boran Zhang</a><sup>4</sup></span>
+      <span><a href="#">Henghaofan Zhang</a><sup>5</sup></span>
+      <span class="break"></span>
+      <span><a href="#">Yibin Xu</a><sup>6</sup></span>
+      <span><a href="#">Yuehan Cui</a><sup>7</sup></span>
+      <span><a href="#">Fangsheng Weng</a><sup>8</sup></span>
+      <span class="senior">Fei Ma<sup>9</sup></span>
+      <span class="break"></span>
+      <span class="senior">Qi Tian<sup>9</sup></span>
+      <span class="senior">Ruqi Huang<sup>1</sup></span>
+      <span class="senior">Hao Zhao<sup>1,10</sup></span>
+    </div>
+
+    <div class="affil">
+      <sup>1</sup>Tsinghua University &nbsp;&middot;&nbsp;
+      <sup>2</sup>Peking University &nbsp;&middot;&nbsp;
+      <sup>3</sup>The Hong Kong Polytechnic University<br>
+      <sup>4</sup>University of Science and Technology of China &nbsp;&middot;&nbsp;
+      <sup>5</sup>University of Electronic Science and Technology of China<br>
+      <sup>6</sup>Tongji University &nbsp;&middot;&nbsp;
+      <sup>7</sup>Tianjin University &nbsp;&middot;&nbsp;
+      <sup>8</sup>Independent Researcher<br>
+      <sup>9</sup>Guangming Lab &nbsp;&middot;&nbsp;
+      <sup>10</sup>BAAI
+    </div>
+
+    <div class="buttons">
+      <a class="btn" href="https://aclanthology.org/2026.findings-acl.149/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="17" height="17"><path fill="currentColor" d="M6 2h9l5 5v15a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1zm8 1.5V8h4.5L14 3.5zM8 13h8v1.5H8V13zm0 3h8v1.5H8V16zm0-6h4v1.5H8V10z"/></svg> Paper</a>
+      <a class="btn" href="https://github.com/yisuanwang/PairCoder" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="17" height="17"><path fill="currentColor" d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.3 4.6 18.3 5 18.3 5c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg> Code</a>
+      <a class="btn" href="#" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="17" height="17"><path fill="currentColor" d="M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h12v2H3v-2z"/></svg> arXiv</a>
+      <a class="btn" href="#bibtex"><svg viewBox="0 0 24 24" width="17" height="17"><path fill="currentColor" d="M7 3h10a2 2 0 0 1 2 2v16l-7-3-7 3V5a2 2 0 0 1 2-2z"/></svg> Cite</a>
+    </div>
+  </div>
+</header>
+
+<section class="teaser">
+  <div class="container">
+    <figure>
+      <img src="assets/img/teaser_multidomain.png" alt="PairCoder improves code generation across artifact domains" loading="lazy">
+      <figcaption><strong>PairCoder improves code generation across every artifact domain, not only Python program synthesis.</strong>
+      Left: single model (light) versus PairCoder (dark) on all 17 public benchmarks, with the absolute gain in percentage points. Right: cases where the baseline also renders an artifact, so the comparison isolates artifact quality &mdash; the baseline drifts from the target while PairCoder matches it closely.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="stats">
+  <div class="container stat-grid">
+    <div class="stat"><div class="num">17</div><div class="lbl">public benchmarks</div></div>
+    <div class="stat"><div class="num">7</div><div class="lbl">models, 3 vendors</div></div>
+    <div class="stat"><div class="num">0.20&rarr;0.78</div><div class="lbl">Blender executability</div></div>
+    <div class="stat"><div class="num">+10&ndash;30</div><div class="lbl">Ti<i>k</i>Z compile points</div></div>
+    <div class="stat"><div class="num">2</div><div class="lbl">agents: Driver + Navigator</div></div>
+  </div>
+</section>
+
+<section id="abstract" class="block">
+  <div class="container narrow">
+    <h2>Abstract</h2>
+    <p>Code is the medium through which large language models generate structured artifacts: charts, scientific figures, vector graphics, CAD models, 3D scenes, and hardware designs are all produced by writing programs. In this regime single-pass inference is brittle, because the compiler, renderer, or simulator that decides whether the artifact exists is invisible to the model. We present <strong>PairCoder</strong>, which grounds review in the toolchain and realizes it as two-agent pair programming: a <strong>Driver</strong> agent writes the program, a <strong>Navigator</strong> agent reviews it against verification evidence (diagnostics, execution results, and renderings of the current artifact beside the target), and the two switch roles when errors persist. Across 17 public benchmarks and seven models from three vendors, PairCoder improves essentially every benchmark whose artifact is verifiable, on full official metric suites rather than execution alone (for example, Blender scene executability 0.20&rarr;0.78; Ti<i>k</i>Z compile rate up 10 to 30 points on every model), at 2.9 to 9.2 times single-model cost (about 7 times overall). The improvements concentrate where the toolchain provides an informative oracle and the baseline leaves headroom, and the method ties or mildly regresses where the oracle is weak, so we frame pair programming as a reliable recipe for code-driven generation of structured data and multimodal content wherever a trustworthy verification oracle exists.</p>
+  </div>
+</section>
+
+<section id="method" class="block alt">
+  <div class="container">
+    <h2>The PairCoder Framework</h2>
+    <p class="lead">A minimal two-agent loop that turns code-driven generation into a toolchain-verified dialogue. The Driver writes and revises the program; the Navigator reviews each candidate against concrete verification evidence; control of the keyboard follows the diagnosis.</p>
+    <figure class="wide">
+      <img src="assets/img/agent_framework.png" alt="PairCoder framework: Driver and Navigator collaboration with role switching" loading="lazy">
+      <figcaption>Iterative collaboration between the Driver (code generation) and Navigator (review and feedback) agents, with the automatic role-switching mechanism.</figcaption>
+    </figure>
+
+    <div class="cards">
+      <div class="card">
+        <div class="card-ico">1</div>
+        <h3>Driver &amp; Navigator with Self-Mirror prompting</h3>
+        <p>The Driver generates and revises while the Navigator reviews, each under a role-specific system prompt over the shared task and memory, preserving two genuinely different perspectives on the same code.</p>
+      </div>
+      <div class="card">
+        <div class="card-ico">2</div>
+        <h3>Verification-grounded review</h3>
+        <p>Each candidate is compiled, executed, or rendered by the benchmark's own toolchain. The evidence &mdash; diagnostics, test outcomes, and a rendering of the artifact beside the target &mdash; is attached to the review. The Navigator must cite a concrete error or accept with <code>[NOERROR]</code>, which prevents churn on already-correct programs.</p>
+      </div>
+      <div class="card">
+        <div class="card-ico">3</div>
+        <h3>Error-triggered role switching</h3>
+        <p>Persistent errors swap the roles so the agent that diagnosed the fault repairs it. An exhausted budget returns the candidate with the best verified quality rather than the last one.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="results" class="block">
+  <div class="container">
+    <h2>Multimodal Results</h2>
+    <p class="lead">Each cell is <em>single model &rarr; <strong>PairCoder</strong></em> at <code>gpt-5.4</code> (thinking disabled). PairCoder improves <strong>every official metric on all seven</strong> multimodal benchmarks &mdash; executability, visual similarity, and geometry alike.</p>
+
+    <div class="table-wrap">
+      <table class="results">
+        <thead>
+          <tr><th>Benchmark</th><th>Metric</th><th>Single</th><th>PairCoder</th></tr>
+        </thead>
+        <tbody>
+          <tr><td rowspan="2">DaTikZ <span class="n">(60)</span></td><td>valid render &uarr;</td><td>0.717</td><td class="win">0.967</td></tr>
+          <tr><td>SSIM / CLIP / DINO &uarr;</td><td>.363/.566/.530</td><td class="win">.512/.770/.698</td></tr>
+
+          <tr><td rowspan="2">Plot2Code <span class="n">(132)</span></td><td>execution rate &uarr;</td><td>0.962</td><td class="win">0.977</td></tr>
+          <tr><td>SSIM / CLIP &uarr;</td><td>.476/.916</td><td class="win">.495/.920</td></tr>
+
+          <tr><td rowspan="2">PandasPlotBench <span class="n">(175)</span></td><td>execution rate &uarr;</td><td>0.966</td><td class="win">0.994</td></tr>
+          <tr><td>SSIM / CLIP &uarr;</td><td>.567/.909</td><td class="win">.610/.944</td></tr>
+
+          <tr><td rowspan="2">ChartMimic <span class="n">(60)</span></td><td>execution rate &uarr;</td><td>0.917</td><td class="win">0.983</td></tr>
+          <tr><td>SSIM &uarr;</td><td>.533</td><td class="win">.582</td></tr>
+
+          <tr><td rowspan="2">StarVector <span class="n">(60)</span></td><td>render rate &uarr;</td><td>0.900</td><td class="win">1.000</td></tr>
+          <tr><td>SSIM / CLIP / DINO &uarr;</td><td>.776/.859/.820</td><td class="win">.873/.954/.906</td></tr>
+
+          <tr><td rowspan="2">GenCAD-Code <span class="n">(60)</span></td><td>execution rate &uarr;</td><td>0.867</td><td class="win">0.983</td></tr>
+          <tr><td>Chamfer (agg.) &darr;</td><td>0.259</td><td class="win">0.155</td></tr>
+
+          <tr><td rowspan="3">3DCodeBench <span class="n">(60)</span></td><td>executability &uarr;</td><td>0.433</td><td class="win">0.783</td></tr>
+          <tr><td>SigLIP-2 / DINO (agg.) &uarr;</td><td>.263/.129</td><td class="win">.842/.512</td></tr>
+          <tr><td>Chamfer (agg.) &darr;</td><td>4.66</td><td class="win">1.66</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">Aggregate scores count non-executing generations as worst case. <span class="winkey"></span> Green marks a PairCoder improvement.</p>
+
+    <div class="two-col">
+      <figure>
+        <img src="assets/img/cost_gain.png" alt="Cost versus benefit per benchmark" loading="lazy">
+        <figcaption><strong>Cost vs. benefit at <code>gpt-5.4-mini</code>.</strong> Per-benchmark token multiplier against gain on the primary metric. Spend concentrates where it converts &mdash; the largest multipliers coincide with the largest gains.</figcaption>
+      </figure>
+      <figure>
+        <img src="assets/img/roleswitch.png" alt="Role switching policy comparison" loading="lazy">
+        <figcaption><strong>Role-switching policy.</strong> Official metric (top) and PairCoder token cost (bottom) for four policies. Switching on each error is best or tied-best on all four benchmarks at a modest token premium.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section id="explore" class="block">
+  <div class="container">
+    <h2>Explore All Results</h2>
+    <p class="lead">The full main table, interactive: 17 benchmarks &times; 7 models from 3 vendors, single model versus PairCoder. The default view shows <strong>every number at once</strong>, color-coded by improvement; switch to a chart to drill into one benchmark or one model.</p>
+
+    <div class="explorer">
+      <div class="ex-controls">
+        <div class="seg" role="tablist">
+          <button class="seg-btn active" data-mode="table">Full table</button>
+          <button class="seg-btn" data-mode="bench">By benchmark</button>
+          <button class="seg-btn" data-mode="model">By model</button>
+        </div>
+        <div class="ex-selectors" id="ex-selectors" hidden>
+          <label id="lbl-bench">Benchmark<br><select id="sel-bench"></select></label>
+          <label id="lbl-metric">Metric<br><select id="sel-metric"></select></label>
+          <label id="lbl-model" hidden>Model<br><select id="sel-model"></select></label>
+        </div>
+        <div class="ex-legend" id="ex-legend">
+          <span><i class="sw imp"></i> improves</span>
+          <span><i class="sw reg"></i> regresses</span>
+          <span><i class="sw tie"></i> tie</span>
+          <span><i class="sw na"></i> n/a</span>
+        </div>
+      </div>
+      <div id="ex-table" class="pc-grid-wrap"></div>
+      <div class="chart-box" id="ex-chart" hidden><canvas id="pcChart"></canvas></div>
+      <p class="ex-note" id="ex-note"></p>
+    </div>
+  </div>
+</section>
+
+<section id="gallery" class="block alt">
+  <div class="container">
+    <h2>Qualitative Gallery</h2>
+    <p class="lead">For each domain: target / reference, single-model baseline, and PairCoder side by side. The benchmarks rotate automatically &mdash; hover to pause, or click a tab to take over.</p>
+
+    <div class="tabs" role="tablist" data-auto="3500">
+      <button class="tab active" data-tab="g-datikz">DaTikZ</button>
+      <button class="tab" data-tab="g-plot2code">Plot2Code</button>
+      <button class="tab" data-tab="g-ppb">PandasPlotBench</button>
+      <button class="tab" data-tab="g-chartmimic">ChartMimic</button>
+      <button class="tab" data-tab="g-starvector">StarVector</button>
+      <button class="tab" data-tab="g-gencad">GenCAD</button>
+      <button class="tab" data-tab="g-tdcb">3DCodeBench</button>
+    </div>
+
+    <div class="tab-panels">
+      <figure class="panel active" id="g-datikz"><img src="assets/img/gallery_datikz.png" alt="DaTikZ gallery" loading="lazy"><figcaption>DaTikZ: caption &rarr; Ti<i>k</i>Z / L<span class="ll">a</span>T<span class="ll">e</span>X.</figcaption></figure>
+      <figure class="panel" id="g-plot2code"><img src="assets/img/gallery_plot2code.png" alt="Plot2Code gallery" loading="lazy"><figcaption>Plot2Code: image &rarr; matplotlib.</figcaption></figure>
+      <figure class="panel" id="g-ppb"><img src="assets/img/gallery_ppb.png" alt="PandasPlotBench gallery" loading="lazy"><figcaption>PandasPlotBench: data &rarr; matplotlib.</figcaption></figure>
+      <figure class="panel" id="g-chartmimic"><img src="assets/img/gallery_chartmimic.png" alt="ChartMimic gallery" loading="lazy"><figcaption>ChartMimic: chart &rarr; matplotlib.</figcaption></figure>
+      <figure class="panel" id="g-starvector"><img src="assets/img/gallery_starvector.png" alt="StarVector gallery" loading="lazy"><figcaption>StarVector: image &rarr; SVG.</figcaption></figure>
+      <figure class="panel" id="g-gencad"><img src="assets/img/gallery_gencad.png" alt="GenCAD gallery" loading="lazy"><figcaption>GenCAD-Code: image &rarr; CadQuery.</figcaption></figure>
+      <figure class="panel" id="g-tdcb"><img src="assets/img/gallery_tdcb.png" alt="3DCodeBench gallery" loading="lazy"><figcaption>3DCodeBench: text &rarr; Blender script.</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section id="crossmodel" class="block">
+  <div class="container">
+    <h2>Cross-Model Generality</h2>
+    <p class="lead">The same tasks rendered across models from three vendors, baseline versus PairCoder. The headline transfers: domains with a strong toolchain signal improve on nearly every applicable model.</p>
+
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-tab="x-p2c">Plot2Code</button>
+      <button class="tab" data-tab="x-ppb">PandasPlotBench</button>
+      <button class="tab" data-tab="x-chart">ChartMimic</button>
+      <button class="tab" data-tab="x-svg">StarVector</button>
+      <button class="tab" data-tab="x-tdcb">3DCodeBench</button>
+    </div>
+    <div class="tab-panels">
+      <figure class="panel active" id="x-p2c"><img src="assets/img/xm_p2c.png" alt="Cross-model Plot2Code" loading="lazy"><figcaption>Plot2Code across models.</figcaption></figure>
+      <figure class="panel" id="x-ppb"><img src="assets/img/xm_ppb.png" alt="Cross-model PandasPlotBench" loading="lazy"><figcaption>PandasPlotBench across models.</figcaption></figure>
+      <figure class="panel" id="x-chart"><img src="assets/img/xm_chart.png" alt="Cross-model ChartMimic" loading="lazy"><figcaption>ChartMimic across models.</figcaption></figure>
+      <figure class="panel" id="x-svg"><img src="assets/img/xm_svg.png" alt="Cross-model StarVector" loading="lazy"><figcaption>StarVector across models.</figcaption></figure>
+      <figure class="panel" id="x-tdcb"><img src="assets/img/xm_tdcb.png" alt="Cross-model 3DCodeBench" loading="lazy"><figcaption>3DCodeBench across models.</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section id="bibtex" class="block alt">
+  <div class="container narrow">
+    <h2>BibTeX</h2>
+    <p class="lead">PairCoder++ extends our ACL 2026 Findings paper, <a href="https://aclanthology.org/2026.findings-acl.149/">PairCoder: Pair Programming-Inspired Two-Agent Collaboration for Code Generation</a>. Please cite the published paper:</p>
+    <pre class="bib"><code>@inproceedings{chen2026paircoder,
+  title     = {PairCoder: Pair Programming-Inspired Two-Agent
+               Collaboration for Code Generation},
+  author    = {Chen, Junhao and Li, Xiang and Xu, Yibin and Cui, Yuehan and
+               Weng, Fangsheng and Zhao, Hao and Ma, Fei and Tian, Qi},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+  pages     = {3043--3058},
+  year      = {2026}
+}</code></pre>
+    <button class="copy-btn" id="copyBib">Copy BibTeX</button>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <p>PairCoder++ &middot; <a href="https://github.com/yisuanwang/PairCoder">github.com/yisuanwang/PairCoder</a></p>
+    <p class="fine">Page template hand-built for the PairCoder project. Website content &copy; the authors.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+<script src="data.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="explorer.js"></script>
+</body>
+</html>
