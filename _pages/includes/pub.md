@@ -444,7 +444,9 @@
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">
-    A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR
+    <a href="https://arxiv.org/abs/2606.31225" target="_blank" style="text-decoration: none; color: inherit;">
+      A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR
+    </a>
   </h1>
 
   Lin Chen,
@@ -455,6 +457,10 @@
   Xiaorui Li,
   Weidong Cai,
   Xiaoming Chen
+
+  <div align="left">
+    <a href="https://arxiv.org/abs/2606.31225"><img src="https://img.shields.io/badge/arXiv-2606.31225-b31b1b.svg?style=flat-square" alt="arXiv"></a>
+  </div>
 
   - LipsFlow tackles multi-speaker visual speech recognition by converting RGB videos into event streams and modeling fine-grained articulatory dynamics with efficient OT-CFM inference.
 
