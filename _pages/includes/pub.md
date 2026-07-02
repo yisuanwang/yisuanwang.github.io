@@ -48,7 +48,9 @@
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">
-    One Video, One World: Turning Monocular Video into Physical 4D Scenes
+    <a href="https://onevideooneworld.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
+      One Video, One World: Turning Monocular Video into Physical 4D Scenes
+    </a>
   </h1>
 
   [**<font color="#fc8803">Junhao Chen *</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
@@ -61,6 +63,12 @@
   [Ruqi Huang †](https://scholar.google.com/citations?user=cgRY63gAAAAJ&hl=en),
   [Zhihao Li](https://scholar.google.com/citations?hl=en&user=gWlYsj0AAAAJ),
   [Yufei Wang †](https://scholar.google.com/citations?user=jLd1l_sAAAAJ&hl=en&oi=ao)
+
+  <div align="left">
+    <a href="https://onevideooneworld.github.io/"><img src="https://img.shields.io/static/v1?label=Homepage&message=OVOW&color=blue&logo=github-pages" alt="Homepage"></a>
+    <a href="https://arxiv.org/abs/2606.31388"><img src="https://img.shields.io/badge/arXiv-2606.31388-b31b1b.svg?style=flat-square" alt="arXiv"></a>
+    <a href="https://github.com/yisuanwang/OVOW"><img src="https://img.shields.io/github/stars/yisuanwang/OVOW?label=Code&logo=github&color=brightgreen" alt="GitHub Repo Stars"></a>
+  </div>
 
   - OVOW is a fully training-free system that turns a single monocular video into an instance-level, simulation-ready 4D mesh scene for downstream embodied AI and physics engines.
 
@@ -503,7 +511,9 @@
   <div class='paper-box-text' markdown="1">
 
   <h1 style="font-weight: bold">
-    PairCoder: Pair Programming-Inspired Two-Agent Collaboration for Code Generation
+    <a href="https://yisuanwang.github.io/PairCoder" target="_blank" style="text-decoration: none; color: inherit;">
+      PairCoder: Pair Programming-Inspired Two-Agent Collaboration for Code Generation
+    </a>
   </h1>
 
   [**<font color="#fc8803">Junhao Chen</font>**](https://scholar.google.com/citations?user=uVMnzPMAAAAJ&hl=en),
@@ -514,6 +524,11 @@
   [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=en),
   [Fei Ma](https://scholar.google.com/citations?user=RJOEAMYAAAAJ&hl=zh-CN), 
   [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ)
+
+  <div align="left">
+    <a href="https://yisuanwang.github.io/PairCoder"><img src="https://img.shields.io/static/v1?label=Homepage&message=PairCoder&color=blue&logo=github-pages" alt="Homepage"></a>
+    <a href="https://github.com/yisuanwang/PairCoder"><img src="https://img.shields.io/github/stars/yisuanwang/PairCoder?label=Code&logo=github&color=brightgreen" alt="GitHub Repo Stars"></a>
+  </div>
 
   - PairCoder adapts pair programming into efficient two-agent LLM collaboration, using dynamic Driver-Navigator interaction to improve code generation quality with far lower token cost than typical multi-agent frameworks.
 
