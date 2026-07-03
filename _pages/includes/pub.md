@@ -533,6 +533,7 @@
 
   <div align="left">
     <a href="https://yisuanwang.github.io/PairCoder"><img src="https://img.shields.io/static/v1?label=Homepage&message=PairCoder&color=blue&logo=github-pages" alt="Homepage"></a>
+    <a href="https://arxiv.org/abs/2607.01883"><img src="https://img.shields.io/badge/arXiv-2607.01883-b31b1b.svg?style=flat-square" alt="arXiv"></a>
     <a href="https://github.com/yisuanwang/PairCoder"><img src="https://img.shields.io/github/stars/yisuanwang/PairCoder?label=Code&logo=github&color=brightgreen" alt="GitHub Repo Stars"></a>
   </div>
 

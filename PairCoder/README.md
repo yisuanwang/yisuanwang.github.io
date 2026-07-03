@@ -45,5 +45,4 @@ d[0].get_pixmap(matrix=fitz.Matrix(2.2, 2.2), alpha=False).save("figure.png")
 ```
 
 ## TODO before publishing
-- Fill in the `Paper` and `arXiv` button links in `index.html` (currently `#`).
-- Optionally add real author homepage links (currently `#`).
+- Optionally add real author homepage links for remaining authors without known URLs.
